@@ -1,6 +1,3 @@
-# TP1-IHC
-Trabalho Prático 1 — Avaliação do sistema Twitch na disciplina de Interação Humano-Computador.
-
 # TP1 — Avaliação de Sistema | Interação Humano-Computador
 
 ## 1. Informações do trabalho
@@ -9,16 +6,19 @@ Trabalho Prático 1 — Avaliação do sistema Twitch na disciplina de Interaç�
 - **Disciplina:** Interação Humano-Computador (IHC)
 - **Professor:** Prof. Dr. Andrey Rodrigues
 - **Sistema avaliado:** Twitch
-- **Equipe:** [Nome do grupo]
+- **Equipe:** 
 
 ### Integrantes
 
-- [Nome completo do integrante 1]
-- [Nome completo do integrante 2]
-- [Nome completo do integrante 3]
-- [Nome completo do integrante 4]
-- [Nome completo do integrante 5]
-- [Nome completo do integrante 6]
+- Ana Vitória Farias Barroso
+
+- Júcilla Kétura Souza Souza
+
+- Letícia Abreu de Araújo Marques
+
+- Luís Gustavo da Silva Gomes
+
+- Paolla Gabriele dos Santos Costa
 
 ---
 
@@ -52,7 +52,7 @@ Serão considerados os seguintes aspectos:
 - **Usabilidade:** facilidade de aprendizado, eficiência e prevenção de erros.
 - **Experiência do usuário (UX):** percepção dos usuários durante a utilização da plataforma.
 - **Acessibilidade:** condições de acesso e utilização por pessoas com diferentes necessidades.
-- **Comunicabilidade:** clareza com que o sistema transmite informações, apresenta funcionalidades e orienta os usuários.
+- **Comunicabilidade:** Inteligibilidade com que o sistema transmite informações, apresenta funcionalidades e orienta os usuários.
 
 ## 5. Escopo da avaliação
 
@@ -64,8 +64,6 @@ A avaliação considera funcionalidades e telas relevantes do Twitch, incluindo:
 - Interação com o chat.
 - Acompanhamento de canais.
 - Configurações e controles disponíveis ao usuário.
-
-O escopo poderá ser ajustado conforme os procedimentos e as evidências coletadas durante as avaliações.
 
 ## 6. Organização das avaliações
 
@@ -111,11 +109,11 @@ As ferramentas utilizadas serão registradas conforme sua aplicação durante o 
 
 - **GitHub:** organização e documentação do projeto.
 - **Notion:** registro e organização da inspeção heurística.
-- **Maze:** configuração e aplicação do teste de usabilidade.
-- **UEQ:** avaliação quantitativa da experiência do usuário.
+- **Maze:** configuração e aplicação do teste de usabilidade. 
+- **UEQ:** avaliação quantitativa da experiência do usuário. 
 - **ATLAS.ti:** análise qualitativa das respostas e construção das redes de códigos.
 
-Outras ferramentas poderão ser acrescentadas caso sejam utilizadas pela equipe.
+(adicionem o que usarem por favor)
 
 ## 8. Declaração de uso de Inteligência Artificial
 
@@ -123,7 +121,7 @@ A equipe utilizará ferramentas de Inteligência Artificial como apoio ao desenv
 
 Todo o conteúdo produzido com esse auxílio será revisado pelos integrantes, que permanecem responsáveis pela veracidade das informações, pelas análises realizadas e pelos resultados apresentados.
 
-**Ferramentas utilizadas e atividades específicas:** [Preencher de acordo com o uso real de IA pela equipe.]
+**Ferramentas utilizadas e atividades específicas:** 
 
 ## 9. Organização do repositório
 
