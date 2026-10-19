@@ -54,11 +54,22 @@ Após a discriminação, os defeitos confirmados são organizados em uma tabela 
 ---
 
 
+
+
+
+
+
 ## Etapa 3 - Discriminação
 [Discriminação](https://app.notion.com/p/Discrimina-o-3fa9b9a8b5ac800d9c4ee65210eed268?source=copy_link)
 
 
 
+
+
+
+
+
+---
 ## Etapa 4: Relato dos resultados
 [Relato dos resultados](https://app.notion.com/p/Relato-dos-resultados-3f99b9a8b5ac8044bdfdeeb5a82898b4?source=copy_link)
 
