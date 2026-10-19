@@ -6,7 +6,7 @@ Para avaliar a interface, foi utilizado o método de Avaliação Heurística, ba
 
 ---
 
-Heurísticas de Nielsen
+## Heurísticas de Nielsen
 
 1. Visibilidade do estado do sistema: o sistema deve manter o usuário informado sobre o que está acontecendo, fornecendo respostas adequadas às ações realizadas.
 2. Correspondência entre o sistema e o mundo real: a interface deve utilizar linguagem familiar e apresentar informações de maneira compreensível.
