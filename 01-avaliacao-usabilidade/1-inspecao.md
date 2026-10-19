@@ -38,11 +38,13 @@ Após a discriminação, os defeitos confirmados são organizados em uma tabela 
 
 - [Tabela de detecção - ANA VITÓRIA](https://app.notion.com/p/Tabela-de-detec-o-Ana-Vit-ria-3f99b9a8b5ac80fea1a4d91f3be8d7aa?source=copy_link)
 
-
-Tabela de detecção - JUCILLA KÉTURA
-Tabela de detecção - LETÍCIA ABREU
-Tabela de detecção - LUÍS GUSTAVO
-Tabela de detecção - PAOLLA GABRIELE
+- [Tabela de detecção - JUCILLA KÉTURA](https://app.notion.com/p/Tabela-de-detec-o-Jucilla-K-tura-3f99b9a8b5ac8041a6d6cfb5abedfdf1?source=copy_link)
+  
+- [Tabela de detecção - LETÍCIA ABREU]()
+  
+- [Tabela de detecção - LUÍS GUSTAVO]()
+  
+- [Tabela de detecção - PAOLLA GABRIELE] ()
 
 
 Etapa 2 - Coleção
