@@ -19,7 +19,7 @@ Para avaliar a interface, foi utilizado o método de Avaliação Heurística, ba
 9. Reconhecimento, diagnóstico e recuperação de erros: as mensagens devem explicar os problemas de forma clara e orientar o usuário sobre como resolvê-los.
 10. Ajuda e documentação: o sistema deve disponibilizar informações de apoio que auxiliem o usuário na utilização de suas funcionalidades.
 
-Processo de inspeção
+## Processo de inspeção
 
 A avaliação da Twitch foi dividida em quatro etapas: detecção, coleção, discriminação e relato dos resultados. Essa organização ajudou a reunir as observações dos inspetores, comparar os problemas encontrados e selecionar aqueles que realmente deveriam fazer parte do relato dos resultados.
 
