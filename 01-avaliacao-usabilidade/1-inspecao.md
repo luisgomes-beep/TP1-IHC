@@ -66,7 +66,7 @@ Após a discriminação, os defeitos confirmados são organizados em uma tabela 
 
 [Relato dos resultados](https://app.notion.com/p/Relato-dos-resultados-3f99b9a8b5ac8044bdfdeeb5a82898b4?source=copy_link)
 
-
+---
 
 
 
