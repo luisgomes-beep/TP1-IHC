@@ -31,6 +31,8 @@ Na etapa de discriminação, a equipe analisou os problemas reunidos na coleçã
 
 Após a discriminação, os defeitos confirmados são organizados em uma tabela final. Para cada problema, são registrados o identificador, a localização na Twitch, a descrição, a heurística violada, o grau de severidade e uma sugestão de melhoria.
 
+---
+
 
 ## Etapa 1 - Detecção
 
@@ -45,18 +47,21 @@ Após a discriminação, os defeitos confirmados são organizados em uma tabela 
 - [Tabela de detecção - PAOLLA GABRIELE](https://app.notion.com/p/Tabela-de-detec-o-Paolla-Gabriele-3f99b9a8b5ac80a580f8db0d3f93b1a1?source=copy_link)
 
 
-Etapa 2 - Coleção
+## Etapa 2 - Coleção
 
-Coleção
+[Coleção](https://app.notion.com/p/Cole-o-Geral-3f99b9a8b5ac803992c8d7382a2bd78b?source=copy_link)
 
-3.3. Etapa 3 - Discriminação
+---
 
-Discriminação
+## Etapa 3 - Discriminação
+
+[Discriminação](https://app.notion.com/p/Discrimina-o-3fa9b9a8b5ac800d9c4ee65210eed268?source=copy_link)
+---
 
 
-Etapa 4: Relato dos resultados
+## Etapa 4: Relato dos resultados
 
-Relato dos resultados
+[Relato dos resultados](https://app.notion.com/p/Relato-dos-resultados-3f99b9a8b5ac8044bdfdeeb5a82898b4?source=copy_link)
 
 
 
