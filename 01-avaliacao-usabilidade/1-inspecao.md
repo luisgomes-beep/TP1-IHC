@@ -1,6 +1,6 @@
 # Método utilizado
 
---
+-
 
 A inspeção de usabilidade foi realizada na plataforma Twitch, um serviço de transmissão de vídeos ao vivo que permite assistir a transmissões, pesquisar canais, acompanhar criadores de conteúdo e interagir com outros usuários pelo chat.
 
