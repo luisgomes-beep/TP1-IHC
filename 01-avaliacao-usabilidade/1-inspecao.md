@@ -51,7 +51,6 @@ Após a discriminação, os defeitos confirmados são organizados em uma tabela 
 
 [Coleção](https://app.notion.com/p/Cole-o-Geral-3f99b9a8b5ac803992c8d7382a2bd78b?source=copy_link)
 
----
 
 ## Etapa 3 - Discriminação
 
