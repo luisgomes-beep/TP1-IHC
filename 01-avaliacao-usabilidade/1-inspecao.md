@@ -4,6 +4,7 @@ A inspeção de usabilidade foi realizada na plataforma Twitch, um serviço de t
 
 Para avaliar a interface, foi utilizado o método de Avaliação Heurística, baseado nas dez heurísticas de usabilidade propostas por Jakob Nielsen. O método permite identificar problemas na interação com o sistema a partir de princípios que orientam a construção de interfaces mais claras, consistentes e fáceis de utilizar.
 
+---
 
 Heurísticas de Nielsen
 
