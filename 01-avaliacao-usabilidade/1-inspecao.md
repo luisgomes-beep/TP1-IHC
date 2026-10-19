@@ -40,11 +40,11 @@ Após a discriminação, os defeitos confirmados são organizados em uma tabela 
 
 - [Tabela de detecção - JUCILLA KÉTURA](https://app.notion.com/p/Tabela-de-detec-o-Jucilla-K-tura-3f99b9a8b5ac8041a6d6cfb5abedfdf1?source=copy_link)
   
-- [Tabela de detecção - LETÍCIA ABREU]()
+- [Tabela de detecção - LETÍCIA ABREU](https://app.notion.com/p/Tabela-de-detec-o-Let-cia-Abreu-3f99b9a8b5ac804796b5edeb668c59f5?source=copy_link)
   
-- [Tabela de detecção - LUÍS GUSTAVO]()
+- [Tabela de detecção - LUÍS GUSTAVO](https://app.notion.com/p/Tabela-de-detec-o-Lu-s-Gustavo-3f99b9a8b5ac80d1afa3da3b62386a3f?source=copy_link)
   
-- [Tabela de detecção - PAOLLA GABRIELE] ()
+- [Tabela de detecção - PAOLLA GABRIELE](https://app.notion.com/p/Tabela-de-detec-o-Paolla-Gabriele-3f99b9a8b5ac80a580f8db0d3f93b1a1?source=copy_link)
 
 
 Etapa 2 - Coleção
