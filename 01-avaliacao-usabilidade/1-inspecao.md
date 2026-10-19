@@ -46,6 +46,7 @@ Após a discriminação, os defeitos confirmados são organizados em uma tabela 
   
 - [Tabela de detecção - PAOLLA GABRIELE](https://app.notion.com/p/Tabela-de-detec-o-Paolla-Gabriele-3f99b9a8b5ac80a580f8db0d3f93b1a1?source=copy_link)
 
+--- 
 
 ## Etapa 2 - Coleção
 
@@ -59,6 +60,8 @@ Após a discriminação, os defeitos confirmados são organizados em uma tabela 
 
 
 ## Etapa 4: Relato dos resultados
+
+---
 
 [Relato dos resultados](https://app.notion.com/p/Relato-dos-resultados-3f99b9a8b5ac8044bdfdeeb5a82898b4?source=copy_link)
 
