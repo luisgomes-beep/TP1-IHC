@@ -34,6 +34,16 @@ Após a discriminação, os defeitos confirmados são organizados em uma tabela 
 ---
 
 
+[Ambiente notion](https://app.notion.com/p/Inspe-o-de-Usabilidade-f369b9a8b5ac83e2b17301688dbe093e)
+
+
+
+
+
+---
+
+
+
 ## Etapa 1 - Detecção
 
 - [Tabela de detecção - ANA VITÓRIA](https://app.notion.com/p/Tabela-de-detec-o-Ana-Vit-ria-3f99b9a8b5ac80fea1a4d91f3be8d7aa?source=copy_link)
