@@ -34,7 +34,16 @@ Após a discriminação, os defeitos confirmados são organizados em uma tabela 
 ---
 
 
+
+
+
+
+
 [Ambiente notion](https://app.notion.com/p/Inspe-o-de-Usabilidade-f369b9a8b5ac83e2b17301688dbe093e)
+
+
+
+
 
 
 
