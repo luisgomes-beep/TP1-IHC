@@ -55,7 +55,112 @@ A análise dos resultados tem como objetivo organizar os dados coletados durante
 ### Resultados por participante
 
 Nesta seção, são apresentados os resultados individuais, considerando o desempenho de cada participante nas tarefas, a conclusão ou não das atividades, o tempo de execução e as dificuldades observadas durante a interação com a plataforma Twitch.
-[Inserir tabela com os resultados individuais e uma explicação dos dados.]
+
+### Participante 01 — P01
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---:|:---:|---:|---|
+| T1 — Encontrar transmissão de interesse | 180s | ! | 1 | Concluiu com dificuldade. |
+| T2 — Explorar categoria de conteúdo | 210s | ! | 1 | Hesitou ao escolher uma categoria e finalizar a tarefa. |
+| T3 — Encontrar o chat da transmissão | 30s | ✓ | 0 | Realizou sem dificuldade. |
+| T4 — Alterar a qualidade do vídeo | 240s | ! | 2 | Encontrou as opções de ajuste de qualidade e ícones com dificuldade. |
+| T5 — Encontrar transmissão em outro idioma | 163s | X | 3 | Não encontrou os filtros e não concluiu a tarefa. |
+| T6 — Identificar informações do canal | 100s | X | 2 | Não identificou informações sobre o canal escolhido. |
+| T7 — Seguir um canal | 20s | ✓ | 0 | Concluiu com facilidade. |
+| T8 — Localizar opções de notificações | 40s | ✓ | 0 | Concluiu sem dificuldades. |
+
+### Participante 02 — P02
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---:|:---:|---:|---|
+| T1 — Encontrar transmissão de interesse | 40s | ✓ | 0 | Tarefa concluída com facilidade. |
+| T2 — Explorar categoria de conteúdo | 176s | X | 1 | Não localizou a aba "Categorias". |
+| T3 — Encontrar o chat da transmissão | 50s | ✓ | 0 | Concluiu facilmente. |
+| T4 — Alterar a qualidade do vídeo | 226s | X | 2 | Não encontrou os ajustes de qualidade. |
+| T5 — Encontrar transmissão em outro idioma | 100s | X | 2 | Não encontrou os filtros de idioma. |
+| T6 — Identificar informações do canal | 60s | X | 3 | Teve dificuldades para encontrar informações do canal e conteúdo. |
+| T7 — Seguir um canal | 30s | X | 2 | Não encontrou o botão de seguir. |
+| T8 — Localizar opções de notificações | 25s | ✓ | 0 | Localizou facilmente as notificações. |
+
+### Participante 03 — P03
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---:|:---:|---:|---|
+| T1 — Encontrar transmissão de interesse | 40s | ✓ | 0 | Concluiu com sucesso. |
+| T2 — Explorar categoria de conteúdo | 184s | ! | 1 | Teve dificuldade para encontrar a aba "Categorias". |
+| T3 — Encontrar o chat da transmissão | 77s | ✓ | 0 | Atividade facilmente concluída. |
+| T4 — Alterar a qualidade do vídeo | 84s | ! | 1 | Demorou para encontrar a engrenagem e ajustar a qualidade. |
+| T5 — Encontrar transmissão em outro idioma | 35s | ✓ | 0 | Concluiu com êxito. |
+| T6 — Identificar informações do canal | 119s | ✓ | 0 | Encontrou a descrição do canal e do conteúdo. |
+| T7 — Seguir um canal | 32s | ✓ | 0 | Tarefa rapidamente concluída. |
+| T8 — Localizar opções de notificações | 168s | X | 1 | Não localizou a área de notificações. |
+
+### Participante 04 — P04
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---:|:---:|---:|---|
+| T1 — Encontrar transmissão de interesse | 60s | ✓ | 0 | Concluiu facilmente. |
+| T2 — Explorar categoria de conteúdo | 60s | X | 2 | Não localizou a aba "Categoria". |
+| T3 — Encontrar o chat da transmissão | 46s | ✓ | 0 | Terminou sem erros. |
+| T4 — Alterar a qualidade do vídeo | 169s | X | 2 | Não encontrou os ajustes de qualidade. |
+| T5 — Encontrar transmissão em outro idioma | 186s | X | 3 | Não encontrou os filtros de idioma. |
+| T6 — Identificar informações do canal | 17s | ✓ | 0 | Atividade completada. |
+| T7 — Seguir um canal | 10s | ✓ | 0 | Concluiu com facilidade. |
+| T8 — Localizar opções de notificações | 50s | ! | 1 | Demorou para encontrar o ícone de notificação. |
+
+### Participante 05 — P05
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---:|:---:|---:|---|
+| T1 — Encontrar transmissão de interesse | 30s | ✓ | 0 | Atividade concluída sem falhas. |
+| T2 — Explorar categoria de conteúdo | 90s | ✓ | 0 | Encontrou e explorou a aba "Categorias". |
+| T3 — Encontrar o chat da transmissão | 47s | ✓ | 0 | Tarefa facilmente concluída. |
+| T4 — Alterar a qualidade do vídeo | 85s | ! | 1 | Concluiu com demora e dificuldade. |
+| T5 — Encontrar transmissão em outro idioma | 90s | X | 1 | Encontrou os filtros de idiomas, mas não os explorou. |
+| T6 — Identificar informações do canal | 59s | ✓ | 0 | Cumpriu rapidamente. |
+| T7 — Seguir um canal | 46s | ! | 2 | Confundiu "Inscreva-se" com "Seguir" e corrigiu o erro. |
+| T8 — Localizar opções de notificações | 69s | ✓ | 0 | Concluiu sem erros. |
+
+### Participante 06 — P06
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---:|:---:|---:|---|
+| T1 — Encontrar transmissão de interesse | 83s | ✓ | 0 | Concluiu sem falhas. |
+| T2 — Explorar categoria de conteúdo | 33s | X | 2 | Não encontrou a aba "Categorias". |
+| T3 — Encontrar o chat da transmissão | 10s | ✓ | 0 | Tarefa cumprida. |
+| T4 — Alterar a qualidade do vídeo | 29s | ✓ | 0 | Atividade concluída rapidamente. |
+| T5 — Encontrar transmissão em outro idioma | 48s | ! | 1 | Demorou para encontrar os filtros de idioma. |
+| T6 — Identificar informações do canal | 172s | X | 2 | Não encontrou a descrição do canal e do conteúdo. |
+| T7 — Seguir um canal | 15s | ✓ | 0 | Cumpriu sem falhas. |
+| T8 — Localizar opções de notificações | 10s | ✓ | 0 | Tarefa realizada rapidamente. |
+
+### Participante 07 — P07
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---:|:---:|---:|---|
+| T1 — Encontrar transmissão de interesse | 77s | ✓ | 0 | Navegou com tranquilidade e cumpriu a atividade. |
+| T2 — Explorar categoria de conteúdo | 94s | ! | 1 | Não explorou as categorias, mas escolheu uma transmissão. |
+| T3 — Encontrar o chat da transmissão | 14s | ✓ | 0 | Realizou a tarefa facilmente. |
+| T4 — Alterar a qualidade do vídeo | 154s | ! | 1 | Demorou para encontrar os ajustes de qualidade. |
+| T5 — Encontrar transmissão em outro idioma | 240s | X | 3 | Não encontrou os filtros de idioma. |
+| T6 — Identificar informações do canal | 28s | ✓ | 0 | Cumpriu rapidamente. |
+| T7 — Seguir um canal | 46s | ! | 1 | Teve dificuldades para encontrar o botão "Seguir". |
+| T8 — Localizar opções de notificações | 59s | ✓ | 0 | Explorou as configurações corretamente. |
+
+### Participante 08 — P08
+
+| Tarefa | Tempo (s) | Resultado | Erros | Observações |
+|---|---:|:---:|---:|---|
+| T1 — Encontrar transmissão de interesse | 30s | ✓ | 0 | Cumpriu sem erros. |
+| T2 — Explorar categoria de conteúdo | 49s | ✓ | 0 | Encontrou e explorou as categorias. |
+| T3 — Encontrar o chat da transmissão | 30s | ✓ | 0 | Atividade realizada. |
+| T4 — Alterar a qualidade do vídeo | 20s | ✓ | 0 | Ajustou a qualidade rapidamente. |
+| T5 — Encontrar transmissão em outro idioma | 45s | X | 2 | Não encontrou os filtros de idioma. |
+| T6 — Identificar informações do canal | 31s | ! | 1 | Não explorou a descrição do canal e do conteúdo. |
+| T7 — Seguir um canal | 10s | ✓ | 0 | Concluiu rapidamente. |
+| T8 — Localizar opções de notificações | 5s | ✓ | 0 | Não houve falhas. |
+
+---
 
 ### Resumo por participante
 
