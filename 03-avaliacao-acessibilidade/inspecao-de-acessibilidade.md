@@ -16,7 +16,7 @@ O processo de avaliação foi dividido em três etapas: detecção, coleção e 
 
 ## Resultados da inspeção
 
-Os resultados da inspeção devem ser apresentados em tabelas, relacionando os problemas identificados aos critérios de acessibilidade correspondentes.
+Os resultados da inspeção estão apresentados em tabelas, relacionando os problemas identificados aos critérios de acessibilidade correspondentes.
 
 ### Síntese dos problemas encontrados
 
@@ -36,10 +36,10 @@ A tabela apresenta os problemas identificados durante a inspeção, suas relaç�
 | [Princípio] | [Número e nome da diretriz] | [Número e nome do critério] | [A, AA ou AAA] |
 | [Princípio] | [Número e nome da diretriz] | [Número e nome do critério] | [A, AA ou AAA] |
 
-A classificação relaciona os problemas identificados aos princípios, às diretrizes e aos critérios de sucesso da WCAG 2.2. O nível de conformidade deve ser indicado conforme o critério correspondente a cada problema encontrado.
+A classificação relaciona os problemas identificados aos princípios, às diretrizes e aos critérios de sucesso da WCAG 2.2. O nível de conformidade foi indicado conforme o critério correspondente a cada problema encontrado.
 
 ## Considerações sobre os resultados
 
-Os resultados da avaliação permitem analisar as principais barreiras de acessibilidade identificadas na Twitch, considerando sua frequência e localização. A relação entre os problemas encontrados e os critérios da WCAG 2.2 contribui para compreender os aspectos da interface que podem dificultar a navegação, a compreensão das informações e a utilização das funcionalidades.
+Os resultados da avaliação permitem analisar as principais barreiras de acessibilidade identificadas na Twitch, considerando sua frequência e localização. A relação entre os problemas encontrados e os critérios da WCAG 2.2 contribuiu para compreender os aspectos da interface que podem dificultar a navegação, a compreensão das informações e a utilização das funcionalidades.
 
-A análise final deve destacar os problemas mais relevantes observados durante a inspeção e apresentar possíveis melhorias para tornar a plataforma mais acessível. As conclusões devem ser fundamentadas nos dados efetivamente coletados pela equipe.
+colocar textinho depois da edição do vídeo
