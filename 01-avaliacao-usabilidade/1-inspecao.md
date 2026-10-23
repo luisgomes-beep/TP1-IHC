@@ -27,9 +27,9 @@ Na etapa de detecção, os inspetores, de forma individual, analisaram a Twitch 
 
 Depois das inspeções individuais, os registros foram reunidos em uma tabela coletiva e os inspetores compararam as informações para verificar quais problemas foram identificados por mais de um inspetor e quais apareceram apenas em uma inspeção.
 
-Na etapa de discriminação, a equipe analisou os problemas reunidos na coleção e discute se cada ocorrência deve ser considerada um defeito de usabilidade ou um falso positivo. A partir dessa discussão, a equipe define a classificação de cada ocorrência e registra sua decisão na tabela de discriminação. Os problemas classificados como problemas de usabilidade seguem para o relato final, enquanto os falsos positivos não são incluídos nessa relação. 
+Na etapa de discriminação, a equipe analisou os problemas reunidos na coleção e discutiu se cada ocorrência deveria ser considerada um defeito de usabilidade ou um falso positivo. A partir dessa discussão, a equipe definiu a classificação de cada ocorrência e registrou sua decisão na tabela de discriminação. Os problemas classificados como problemas de usabilidade seguiram para o relato final, enquanto os falsos positivos não foram incluídos nessa relação. 
 
-Após a discriminação, os defeitos confirmados são organizados em uma tabela final. Para cada problema, são registrados o identificador, a localização na Twitch, a descrição, a heurística violada, o grau de severidade e uma sugestão de melhoria.
+Após a discriminação, os defeitos confirmados foram organizados em uma tabela final. Para cada problema, foram registrados o identificador, a localização na Twitch, a descrição, a heurística violada, o grau de severidade e uma sugestão de melhoria.
 
 ---
 
