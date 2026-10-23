@@ -83,7 +83,7 @@ Foi realizado um teste com participantes externos à equipe, utilizando tarefas 
 
 Esta seção reúne o planejamento e os materiais relacionados à realização do teste de usabilidade, incluindo o formulário elaborado no **Google Forms**, as gravações de tela e as gravações de áudio realizadas com o gravador de tela e o microfone nativos do Windows, além dos ajustes efetuados após o teste piloto.
 
-[Ver materiais do Maze](01-avaliacao-usabilidade/3-registro-das-tarefas.md)
+[Ver materiais do registro das tarefas](01-avaliacao-usabilidade/3-registro-das-tarefas.md)
 
 ### 6.4. Avaliação da experiência do usuário
 
