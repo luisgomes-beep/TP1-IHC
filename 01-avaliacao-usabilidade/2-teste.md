@@ -6,11 +6,11 @@ Este documento apresenta a organização e os resultados do teste de usabilidade
 
 ### Objetivo do teste
 
-O teste de usabilidade tem como objetivo avaliar a facilidade de uso da plataforma Twitch, observando como os participantes navegam pela interface, encontram transmissões, exploram categorias, interagem com os recursos disponíveis e localizam configurações. A avaliação busca identificar dificuldades, barreiras de navegação e oportunidades de melhoria na experiência do usuário.
+O teste de usabilidade teve como objetivo avaliar a facilidade de uso da plataforma Twitch, observando como os participantes navegam pela interface, encontram transmissões, exploram categorias, interagem com os recursos disponíveis e localizam configurações. A avaliação buscou identificar dificuldades, barreiras de navegação e oportunidades de melhoria na experiência do usuário.
 
 ### Tarefas
 
-Os participantes deverão realizar as seguintes tarefas na plataforma Twitch:
+Os participantes realizaram as seguintes tarefas na plataforma Twitch:
 
 1. Encontrar uma transmissão ao vivo de um jogo ou assunto de seu interesse.
 2. Encontrar uma transmissão ao vivo que esteja acontecendo em um idioma de sua preferência.
@@ -31,11 +31,11 @@ O teste piloto teve como finalidade verificar se as instruções das tarefas est
 
 ### Ajustes realizados
 
-Após a realização do teste piloto, a equipe identificou a necessidade de reformular a descrição da atividade 5, tornando as instruções mais detalhadas e claras para os participantes. Além disso, foram realizados ajustes no procedimento de gravação de tela, a fim de corrigir falhas técnicas identificadas durante a execução do teste.
+Após a realização do teste piloto, a equipe identificou a necessidade de reformular a descrição da atividade 5, tornando as instruções mais detalhadas e claras para os participantes. Além disso, foram realizados ajustes no procedimento de gravação de tela, a fim de corrigir falhas técnicas identificadas durante a execução do Teste Piloto.
 
 ## 3. Execução
 
-A execução consiste na aplicação do teste com os participantes selecionados. Inicialmente, os participantes responderam ao questionário de caracterização. Em seguida, realizaram as oito tarefas propostas, enquanto os avaliadores observavam a navegação e registravam o desempenho, as dificuldades e os comportamentos relevantes. Ao final, os participantes responderam ao questionário pós-teste e à UEQ, conforme o procedimento definido pela equipe.
+A execução consistiu na aplicação do teste com os participantes selecionados. Inicialmente, os participantes responderam ao questionário de caracterização. Em seguida, realizaram as oito tarefas propostas, enquanto os avaliadores observavam a navegação e registravam o desempenho, as dificuldades e os comportamentos relevantes. Ao final, os participantes responderam ao questionário pós-teste e à UEQ, conforme o procedimento definido pela equipe.
 
 Durante a execução, os avaliadores evitaram orientar os participantes sobre como realizar as tarefas, permitindo observar a interação espontânea com a plataforma.
 
@@ -50,7 +50,7 @@ As evidências da execução incluem registros que comprovam a realização dos 
 
 ## 4. Análise dos Resultados
 
-A análise dos resultados tem como objetivo organizar os dados coletados durante a execução, permitindo identificar padrões de desempenho, dificuldades recorrentes e aspectos da plataforma que influenciaram a experiência dos participantes.
+A análise dos resultados tem como objetivo organizar os dados coletados durante a execução, permitindo identificar padrões de desempenho, dificuldades recorrentes e aspectos da plataforma que influenciaram a experiência dos participantes selecionados.
 
 ### Resultados por participante
 
@@ -166,13 +166,33 @@ Nesta seção, são apresentados os resultados individuais, considerando o desem
 
 O resumo individual reune os principais acontecimentos observados durante o teste de cada participante, destacando as tarefas realizadas com facilidade, as dificuldades encontradas e os comportamentos relevantes.
 
-[Inserir uma tabela ou síntese individual dos participantes, acompanhada de uma explicação.]
+
+| Participante | Sucesso ✓ | Com dificuldade ! | Insucesso X | Tempo total (s) | Total de erros |
+|---|---:|---:|---:|---:|---:|
+| P01 | 3 | 3 | 2 | 983s | 9 |
+| P02 | 3 | 0 | 5 | 707s | 10 |
+| P03 | 5 | 2 | 1 | 739s | 3 |
+| P04 | 4 | 1 | 3 | 598s | 8 |
+| P05 | 5 | 2 | 1 | 516s | 4 |
+| P06 | 5 | 1 | 2 | 400s | 5 |
+| P07 | 4 | 3 | 1 | 712s | 6 |
+| P08 | 6 | 1 | 1 | 220s | 3 |
 
 ### Consolidação por tarefa
 
-A consolidação por tarefa permite comparar os resultados obtidos pelos participantes em cada uma das oito atividades. São considerados o número de conclusões, as dificuldades registradas e os tempos observados, quando disponíveis.
+A consolidação por tarefa serve comparar os resultados obtidos pelos participantes em cada uma das oito atividades. São considerados o número de conclusões, as dificuldades registradas e os tempos observados.
 
-[Inserir tabela consolidada por tarefa e explicar os principais resultados.]
+| Tarefa | TSR — Taxa de sucesso (%) | Tempo médio da tarefa (s) |
+|---|---:|---:|
+| T1 — Encontrar transmissão de interesse | 87,5% | 67,5 |
+| T2 — Explorar categoria de conteúdo | 25,0% | 112,0 |
+| T3 — Encontrar o chat da transmissão | 100,0% | 38,0 |
+| T4 — Alterar a qualidade do vídeo | 25,0% | 125,9 |
+| T5 — Encontrar transmissão em outro idioma | 12,5% | 113,4 |
+| T6 — Identificar informações do canal | 50,0% | 73,2 |
+| T7 — Seguir um canal | 62,5% | 26,1 |
+| T8 — Localizar opções de notificações | 75,0% | 53,2 |
+
 
 ### Respostas abertas e fatores de usabilidade
 
