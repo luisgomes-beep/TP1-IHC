@@ -36,7 +36,7 @@ Após a realização do teste piloto, a equipe identificou a necessidade de refo
 
 ## 3. Execução
 
-A execução consistiu na aplicação do teste com os participantes selecionados. Inicialmente, os participantes responderam ao questionário de caracterização. Em seguida, realizaram as oito tarefas propostas, enquanto os avaliadores observavam a navegação e registravam o desempenho, as dificuldades e os comportamentos relevantes. Ao final, os participantes responderam ao questionário pós-teste e à UEQ, conforme o procedimento definido pela equipe.
+A execução consistiu na aplicação do teste com os participantes selecionados. Inicialmente, os participantes assinavam o TCLE, após isso, respondiam ao questionário de caracterização. Em seguida, realizaram as oito tarefas propostas, enquanto os avaliadores observavam a navegação e registravam o desempenho, as dificuldades e os comportamentos relevantes. Ao final, os participantes responderam ao questionário pós-teste e à UEQ, conforme o procedimento definido pela equipe.
 
 Durante a execução, os avaliadores evitaram orientar os participantes sobre como realizar as tarefas, permitindo observar a interação espontânea com a plataforma.
 
