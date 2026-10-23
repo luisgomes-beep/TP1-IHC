@@ -12,14 +12,15 @@ O teste de usabilidade teve como objetivo avaliar a facilidade de uso da platafo
 
 Os participantes realizaram as seguintes tarefas na plataforma Twitch:
 
-1. Encontrar uma transmissão ao vivo de um jogo ou assunto de seu interesse.
-2. Encontrar uma transmissão ao vivo que esteja acontecendo em um idioma de sua preferência.
-3. Encontrar uma categoria de conteúdo de seu interesse e explorar as transmissões disponíveis.
-4. Escolher uma transmissão ao vivo e identificar as informações disponíveis sobre o canal e o conteúdo.
-5. Encontrar o chat de uma transmissão e observar como as mensagens dos espectadores são exibidas.
-6. Seguir um canal que tenha despertado seu interesse.
-7. Encontrar uma maneira de alterar a qualidade do vídeo de uma transmissão, caso essa opção esteja disponível.
-8. Localizar as opções relacionadas às notificações de um canal ou da sua conta.
+1. Encontre uma transmissão ao vivo de um jogo ou assunto de seu interesse.
+2. Encontre uma categoria de conteúdo de seu interesse e explore as transmissões disponíveis.
+3. Encontre o chat de uma transmissão e observe como as mensagens dos espectadores são exibidas.
+4. Encontre uma maneira de alterar a qualidade do vídeo de uma transmissão, caso essa opção esteja disponível.
+5. Encontre uma transmissão ao vivo que esteja acontecendo em um idioma de sua preferência.
+6. Escolha uma transmissão ao vivo e identifique as informações disponíveis sobre o canal e o conteúdo.
+7. Siga um canal que tenha despertado seu interesse.
+8. Localize as opções relacionadas às notificações de um canal ou da sua conta.
+
 
 ### Instrumentos utilizados
 
