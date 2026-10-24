@@ -48,7 +48,11 @@ As evidências da execução incluem registros que comprovam a realização dos 
 
 *Figura 1 — Participante Piloto durante a realização do teste.*
 
-![](https://ibb.co/2YFnHc3G)
+A Figura 1 apresenta a interface inicial do sistema.
+
+![Figura 1 – Interface inicial](https://ibb.co/2YFnHc3G)
+
+A interface permite que o usuário...
 
 [Adicionar outras imagens ou evidências, utilizando identificadores como P02, P03 e assim por diante. As imagens devem ser armazenadas na pasta correspondente do repositório, e os dados pessoais dos participantes devem ser protegidos.]
 
