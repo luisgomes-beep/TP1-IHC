@@ -44,13 +44,83 @@ Durante a execução, os avaliadores evitaram orientar os participantes sobre co
 
 As evidências da execução incluem registros que comprovam a realização dos testes, respeitando a privacidade dos participantes.
 
+
+**Figura 1 — Participante Piloto durante a realização do teste.**
 ![Figura 1 - Participante Piloto ](piloto.jpeg)
 
-*Figura 2 — Participante Piloto durante a realização do teste.*
 
-A Figura 2 apresenta a interface inicial do sistema.
 
-![Figura 2 – Interface inicial](https://ibb.co/2YFnHc3G)
+
+
+
+
+
+**Figura 2 - Participante 1 realizando o teste.**
+![Figura 2 –Participante 1 realizando o teste](parti.1.jpeg)
+
+
+
+
+
+
+
+
+**Figura 3 - Participante 2 realizando o teste.**
+![Figura 3 –Participante 2 realizando o teste](parti.2.jpeg)
+
+
+
+
+
+
+
+**Figura 4 - Participante 3 realizando o teste.**
+![Figura 4 –Participante 3 realizando o teste](parti.3.jpeg)
+
+
+
+
+
+
+**Figura 5 - Participante 4 realizando o teste.**
+![Figura 5 – Participante 4 realizando a teste](parti.4.jpeg)
+
+
+
+
+
+
+**Figura 6 - Participante 5 realizando o teste.**
+![Figura 6 –Participante 5 realizando o teste](parti.5.jpeg)
+
+
+
+
+
+
+**Figura 7 - Participante 6 realizando o teste.**
+![Figura 7 –Participante 6 realizando o teste](parti.6.jpeg)
+
+
+
+
+
+**Figura 8 - Participante 7 realizando o teste.**
+![Figura 8 –Participante 7 realizando o teste](parti.7.jpeg)
+
+
+
+
+
+
+
+
+**Figura 9 - Participante 8 realizando o teste.**
+![Figura 9 – Participante 8 realizando o teste](parti.8.jpeg)
+
+
+
+
 
 A interface permite que o usuário...
 
