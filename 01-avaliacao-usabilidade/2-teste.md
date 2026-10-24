@@ -44,7 +44,7 @@ Durante a execução, os avaliadores evitaram orientar os participantes sobre co
 
 As evidências da execução incluem registros que comprovam a realização dos testes, respeitando a privacidade dos participantes.
 
-![Participante realizando o teste](imagens/teste-p01.png)
+![Figura 1 - Participante Piloto ](piloto.jpeg)
 
 *Figura 2 — Participante Piloto durante a realização do teste.*
 
