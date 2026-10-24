@@ -21,6 +21,7 @@ Os participantes realizaram as seguintes tarefas na plataforma Twitch:
 7. Siga um canal que tenha despertado seu interesse.
 8. Localize as opções relacionadas às notificações de um canal ou da sua conta.
 
+As tarefas propostas permitiram avaliar a facilidade de navegação na Twitch, considerando a busca por transmissões, a exploração de categorias, a interação com o chat e o acesso às configurações da plataforma. A execução também possibilitou observar a localização de recursos relacionados à qualidade do vídeo, ao idioma, às informações dos canais, aos seguidores e às notificações.
 
 ### Instrumentos utilizados
 
@@ -144,6 +145,8 @@ Nesta seção, são apresentados os resultados individuais, considerando o desem
 | T7 — Seguir um canal | 20s | ✓ | 0 | Concluiu com facilidade. |
 | T8 — Localizar opções de notificações | 40s | ✓ | 0 | Concluiu sem dificuldades. |
 
+**P01 — Participante 01: Apresentou dificuldades na exploração de categorias, no ajuste da qualidade do vídeo e na busca por transmissões em outros idiomas. Destacou-se pela facilidade em localizar o chat, seguir canais e acessar notificações.**
+
 ### Participante 02 — P02
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
@@ -156,6 +159,8 @@ Nesta seção, são apresentados os resultados individuais, considerando o desem
 | T6 — Identificar informações do canal | 60s | X | 3 | Teve dificuldades para encontrar informações do canal e conteúdo. |
 | T7 — Seguir um canal | 30s | X | 2 | Não encontrou o botão de seguir. |
 | T8 — Localizar opções de notificações | 25s | ✓ | 0 | Localizou facilmente as notificações. |
+
+**P02 — Participante 02: Apresentou o maior número de tarefas não concluídas (5) e o maior total de erros (10). Teve facilidade para encontrar transmissões de interesse, localizar o chat e acessar notificações.**
 
 ### Participante 03 — P03
 
@@ -170,6 +175,8 @@ Nesta seção, são apresentados os resultados individuais, considerando o desem
 | T7 — Seguir um canal | 32s | ✓ | 0 | Tarefa rapidamente concluída. |
 | T8 — Localizar opções de notificações | 168s | X | 1 | Não localizou a área de notificações. |
 
+**P03 — Participante 03: Concluiu cinco tarefas sem dificuldades e apresentou apenas três erros, demonstrando bom desempenho geral. Sua principal dificuldade foi localizar as opções de notificações**
+
 ### Participante 04 — P04
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
@@ -182,6 +189,8 @@ Nesta seção, são apresentados os resultados individuais, considerando o desem
 | T6 — Identificar informações do canal | 17s | ✓ | 0 | Atividade completada. |
 | T7 — Seguir um canal | 10s | ✓ | 0 | Concluiu com facilidade. |
 | T8 — Localizar opções de notificações | 50s | ! | 1 | Demorou para encontrar o ícone de notificação. |
+
+**P04 — Participante 04: Concluiu quatro tarefas sem dificuldades, mas não conseguiu realizar três atividades. Os principais obstáculos envolveram a exploração de categorias, o ajuste da qualidade do vídeo e a busca por transmissões em outros idiomas.**
 
 ### Participante 05 — P05
 
@@ -196,6 +205,8 @@ Nesta seção, são apresentados os resultados individuais, considerando o desem
 | T7 — Seguir um canal | 46s | ! | 2 | Confundiu "Inscreva-se" com "Seguir" e corrigiu o erro. |
 | T8 — Localizar opções de notificações | 69s | ✓ | 0 | Concluiu sem erros. |
 
+**P05 — Participante 05: Apresentou bom desempenho, com cinco tarefas concluídas sem dificuldades e quatro erros registrados. Encontrou obstáculos na busca por transmissões em outros idiomas e confundiu inicialmente as opções de inscrição e de seguir.**
+
 ### Participante 06 — P06
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
@@ -208,6 +219,8 @@ Nesta seção, são apresentados os resultados individuais, considerando o desem
 | T6 — Identificar informações do canal | 172s | X | 2 | Não encontrou a descrição do canal e do conteúdo. |
 | T7 — Seguir um canal | 15s | ✓ | 0 | Cumpriu sem falhas. |
 | T8 — Localizar opções de notificações | 10s | ✓ | 0 | Tarefa realizada rapidamente. |
+
+**P06 — Participante 06: Concluiu cinco tarefas sem dificuldades e apresentou cinco erros. Teve facilidade para ajustar a qualidade do vídeo, localizar o chat, seguir canais e acessar notificações, mas encontrou dificuldades na exploração de categorias e na identificação das informações do canal.**
 
 ### Participante 07 — P07
 
@@ -222,6 +235,9 @@ Nesta seção, são apresentados os resultados individuais, considerando o desem
 | T7 — Seguir um canal | 46s | ! | 1 | Teve dificuldades para encontrar o botão "Seguir". |
 | T8 — Localizar opções de notificações | 59s | ✓ | 0 | Explorou as configurações corretamente. |
 
+**P07 — Participante 07: Concluiu quatro tarefas sem dificuldades, enquanto três foram realizadas com dificuldade. O principal obstáculo foi encontrar transmissões em outros idiomas, tarefa que não conseguiu concluir.**
+
+
 ### Participante 08 — P08
 
 | Tarefa | Tempo (s) | Resultado | Erros | Observações |
@@ -234,6 +250,12 @@ Nesta seção, são apresentados os resultados individuais, considerando o desem
 | T6 — Identificar informações do canal | 31s | ! | 1 | Não explorou a descrição do canal e do conteúdo. |
 | T7 — Seguir um canal | 10s | ✓ | 0 | Concluiu rapidamente. |
 | T8 — Localizar opções de notificações | 5s | ✓ | 0 | Não houve falhas. |
+
+**P08 — Participante 08: Apresentou o melhor desempenho geral, com seis tarefas concluídas sem dificuldades, apenas três erros e o menor tempo total de execução (220 segundos). Sua principal dificuldade foi localizar transmissões em outros idiomas.**
+
+### Conclusão da etapa
+
+Os resultados individuais demonstram diferenças no desempenho dos participantes, com variações no tempo de execução, na quantidade de erros e na conclusão das tarefas. As principais dificuldades estiveram relacionadas à exploração de categorias, ao ajuste da qualidade do vídeo e à busca por transmissões em outros idiomas.
 
 ---
 
@@ -253,9 +275,13 @@ O resumo individual reune os principais acontecimentos observados durante o test
 | P07 | 4 | 3 | 1 | 712s | 6 |
 | P08 | 6 | 1 | 1 | 220s | 3 |
 
+### Conclusão da etapa
+
+A comparação dos resultados individuais evidencia que o desempenho variou entre os participantes. P08 apresentou o menor tempo total de execução, enquanto P02 registrou o maior número de tarefas não concluídas e de erros, demonstrando diferenças na facilidade de uso da plataforma.
+
 ### Consolidação por tarefa
 
-A consolidação por tarefa serve comparar os resultados obtidos pelos participantes em cada uma das oito atividades. São considerados o número de conclusões, as dificuldades registradas e os tempos observados.
+A consolidação por tarefa serve para comparar os resultados obtidos pelos participantes em cada uma das oito atividades. Foram considerados o número de conclusões, as dificuldades registradas e os tempos observados.
 
 | Tarefa | TSR — Taxa de sucesso (%) | Tempo médio da tarefa (s) |
 |---|---:|---:|
@@ -268,16 +294,34 @@ A consolidação por tarefa serve comparar os resultados obtidos pelos participa
 | T7 — Seguir um canal | 62,5% | 26,1 |
 | T8 — Localizar opções de notificações | 75,0% | 53,2 |
 
+### Conclusão da etapa
+
+A consolidação indica que a localização do chat foi a tarefa mais bem-sucedida, com 100% de sucesso. Em contrapartida, a busca por transmissões em outros idiomas apresentou a menor taxa de sucesso (12,5%), seguida pela exploração de categorias e pelo ajuste da qualidade do vídeo (25% cada), evidenciando pontos que podem dificultar a navegação dos usuários.
+
 
 ### Respostas abertas e fatores de usabilidade
 
 As respostas abertas dos participantes foram organizadas para identificar opiniões, sugestões e dificuldades relatadas durante ou após o teste. Esses dados foram relacionados aos fatores de usabilidade observados, como facilidade de aprendizagem, eficiência na realização das tarefas, clareza da interface e satisfação com a experiência.
 
-[Inserir tabela com as respostas abertas, os fatores de usabilidade relacionados e uma explicação dos resultados.]
+A análise dos resultados quantitativos permite relacionar as dificuldades observadas a aspectos específicos da navegação na Twitch. A localização das categorias, o ajuste da qualidade do vídeo e a busca por transmissões em outros idiomas foram atividades que apresentaram baixos índices de sucesso ou exigiram maior tempo de execução. Esses resultados indicam possíveis dificuldades na identificação de recursos e na compreensão dos caminhos necessários para concluir determinadas tarefas.
+
+Em contrapartida, a localização do chat apresentou uma taxa de sucesso de 100%, demonstrando maior facilidade dos participantes nessa atividade. A tarefa de seguir um canal e o acesso às notificações também apresentaram resultados relativamente positivos, embora tenham ocorrido dificuldades individuais. Esses dados ajudam a diferenciar os recursos que foram localizados com maior facilidade daqueles que podem exigir melhorias na organização e na apresentação das opções da plataforma.
+
+**[Inserir tabela com as respostas abertas, os fatores de usabilidade relacionados e uma explicação dos resultados.]**
+
+(depois de inserir a tabela colocar o resto do texto)
 
 ## Considerações sobre o Teste de Usabilidade
 
 O teste de usabilidade permitiu analisar como os participantes interagem com a Twitch e quais aspectos da interface facilitam ou dificultam a realização das tarefas propostas. A consolidação dos resultados contribuiu para identificar problemas recorrentes, compreender as percepções dos usuários e apontar oportunidades de melhoria.
 
-colocar mais textoooooo
+De maneira geral, os resultados demonstraram diferenças no desempenho dos oito participantes, considerando o tempo de execução, a ocorrência de erros e a conclusão das atividades. Entre as tarefas avaliadas, encontrar o chat de uma transmissão foi a atividade com melhor resultado, alcançando 100% de sucesso. Esse desempenho sugere que, nas condições observadas durante o teste, o recurso apresentou boa facilidade de localização e utilização.
+
+Por outro lado, a busca por transmissões em outros idiomas apresentou a menor taxa de sucesso, de 12,5%. A exploração de categorias e a alteração da qualidade do vídeo também registraram taxas de sucesso de 25% cada. Esses resultados evidenciam dificuldades recorrentes na localização de filtros, categorias e controles da interface, indicando que esses recursos merecem atenção em uma avaliação de usabilidade.
+
+Também foram observadas diferenças entre os participantes. P08 apresentou o menor tempo total registrado, com 220 segundos, enquanto P02 teve o maior número de tarefas não concluídas e o maior total de erros. Essas diferenças demonstram que a experiência de navegação não foi uniforme entre os usuários e reforçam a importância de avaliar a interface considerando diferentes comportamentos e níveis de familiaridade com a plataforma.
+
+Com base nos resultados, recomenda-se investigar formas de tornar as categorias e os filtros de idioma mais fáceis de localizar, melhorar a identificação dos controles de qualidade do vídeo e facilitar o acesso às informações dos canais. Essas possibilidades devem ser consideradas como oportunidades de melhoria identificadas a partir dos dados observados, e não como soluções cuja eficácia já tenha sido comprovada pelo teste.
+
+Conclui-se que a avaliação forneceu informações relevantes sobre a experiência de uso da Twitch, destacando tanto recursos que foram utilizados com facilidade quanto funcionalidades que geraram dificuldades para parte dos participantes. A combinação dos registros de execução, das observações e das respostas abertas permite fundamentar futuras melhorias na interface, com o objetivo de tornar a navegação mais clara, eficiente e acessível aos usuários.
 
