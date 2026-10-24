@@ -43,9 +43,12 @@ Durante a execução, os avaliadores evitaram orientar os participantes sobre co
 ### Evidências
 
 As evidências da execução incluem registros que comprovam a realização dos testes, respeitando a privacidade dos participantes.
+
 ![Participante realizando o teste](imagens/teste-p01.png)
 
-*Figura 1 — Participante P01 durante a realização do teste.*
+*Figura 1 — Participante Piloto durante a realização do teste.*
+
+![](https://ibb.co/2YFnHc3G)
 
 [Adicionar outras imagens ou evidências, utilizando identificadores como P02, P03 e assim por diante. As imagens devem ser armazenadas na pasta correspondente do repositório, e os dados pessoais dos participantes devem ser protegidos.]
 
