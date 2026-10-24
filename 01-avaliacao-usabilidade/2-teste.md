@@ -46,11 +46,11 @@ As evidências da execução incluem registros que comprovam a realização dos 
 
 ![Participante realizando o teste](imagens/teste-p01.png)
 
-*Figura 1 — Participante Piloto durante a realização do teste.*
+*Figura 2 — Participante Piloto durante a realização do teste.*
 
-A Figura 1 apresenta a interface inicial do sistema.
+A Figura 2 apresenta a interface inicial do sistema.
 
-![Figura 1 – Interface inicial](https://ibb.co/2YFnHc3G)
+![Figura 2 – Interface inicial](https://ibb.co/2YFnHc3G)
 
 A interface permite que o usuário...
 
