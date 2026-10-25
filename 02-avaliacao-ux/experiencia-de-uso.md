@@ -29,7 +29,7 @@ O primeiro gráfico compara as médias das seis dimensões avaliadas. Atrativida
 
 ### 3.2 Comparação com o benchmark
 
-
+![Figura-2-Benchmark](Imagens-UX/grafico-02-benchmark.png)
 
 **Figura 2 — Médias e classificação comparativa no benchmark do UEQ.**
 
