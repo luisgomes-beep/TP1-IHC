@@ -15,7 +15,7 @@ Foi utilizado o User Experience Questionnaire (UEQ) para avaliar a experiência 
 | Estimulação | 0,47 | Bad |
 | Novidade | -0,17 | Bad |
 
-![foto das médias](grafico-01-medias-ueq.png)
+
 
 **Figura 1 — Médias das seis dimensões do UEQ para a Twitch.**
 
@@ -29,7 +29,7 @@ O primeiro gráfico compara as médias das seis dimensões avaliadas. Atrativida
 
 ### 3.2 Comparação com o benchmark
 
-![Médias e classificação no benchmark UEQ](imagens/grafico-02-benchmark.png)
+
 
 **Figura 2 — Médias e classificação comparativa no benchmark do UEQ.**
 
