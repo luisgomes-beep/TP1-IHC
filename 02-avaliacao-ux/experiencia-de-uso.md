@@ -43,10 +43,10 @@ Inserir as respostas abertas originais, organizadas por participante.
 ![figura](Imagens-UX/part1.jpeg)
 
 ### 4.2 Processo de codificação no ATLAS.ti
-Inserir capturas de tela que mostrem os trechos codificados e os códigos associados.
+.
 
 ### 4.3 Códigos identificados
-Listar os códigos criados a partir das respostas reais e explicar brevemente o que cada um representa.
+
 
 ### 4.4 Redes construídas no ATLAS.ti
 Inserir as seis redes, uma para cada dimensão: Atratividade, Perspicuidade, Eficiência, Confiabilidade, Estimulação e Novidade.
