@@ -6,7 +6,7 @@
 **Categoria:** Plataforma de transmissão ao vivo (*streaming*)  
 **Endereço:** https://www.twitch.tv/
 
-![Logo da Twitch](01-avaliacao-usabilidade/Imagens-AU/twitch-tv.jpg)
+![Twitch](./01-avaliacao-usabilidade/Imagens-AU/twitch-tv.jpg)
 
 ## 2. Descrição do sistema
 
