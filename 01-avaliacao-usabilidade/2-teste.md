@@ -76,7 +76,7 @@ As evidências da execução incluem registros que comprovam a realização dos 
 
 
 **Figura 4 - Participante 3 realizando o teste.**
-![Figura 4 –Participante 3 realizando o teste](parti.3.jpeg)
+![Figura 4 –Participante 3 realizando o teste](Imagens-AU/parti.3.jpeg)
 
 
 
