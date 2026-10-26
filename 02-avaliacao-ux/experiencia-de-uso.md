@@ -43,7 +43,7 @@ Inserir as respostas abertas originais, organizadas por participante.
 ![figura](Imagens-UX/part1.jpeg)
 
 ### 4.2 Processo de codificação no ATLAS.ti
-.
+
 
 ### 4.3 Códigos identificados
 
