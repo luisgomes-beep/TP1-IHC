@@ -29,7 +29,7 @@ Também foram considerados outros aspectos relevantes para a acessibilidade, com
 
 As ocorrências foram organizadas em uma tabela para reunir problemas semelhantes, identificar as funcionalidades envolvidas e distinguir resultados observados de verificações pendentes.
 
-| ID | Problema identificado ou aspecto avaliado | Tela/funcionalidade | Frequência |
+| Código | Problema identificado ou aspecto avaliado | Tela/funcionalidade | Frequência |
 |---|---|---|---|
 | A01 | Sobreposição de vozes durante anúncios, dificultando a compreensão pelo leitor de tela | Transmissão e anúncios | Não confirmada |
 | A02 | Navegação utilizando somente o teclado | Página inicial e controles testados | Nenhuma dificuldade relatada |
@@ -41,7 +41,7 @@ As ocorrências foram organizadas em uma tabela para reunir problemas semelhante
 
 Os registros foram analisados para distinguir as ocorrências observadas dos aspectos que ainda precisam ser verificados.
 
-| ID | Ocorrência | Classificação | Justificativa |
+| Código | Ocorrência | Classificação | Justificativa |
 |---|---|---|---|
 | A01 | Múltiplas vozes durante a reprodução de anúncios | Achado observado; causa a investigar | A dificuldade foi relatada, mas sua causa e sua relação com uma não conformidade específica da WCAG ainda precisam ser determinadas. |
 | A02 | Navegação por teclado nas funcionalidades testadas | Sem dificuldade relatada no escopo observado | Não foi relatada dificuldade significativa durante os testes realizados. |
