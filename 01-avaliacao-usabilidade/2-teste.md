@@ -57,7 +57,7 @@ As evidências da execução incluem registros que comprovam a realização dos 
 
 
 **Figura 2 - Participante 1 realizando o teste.**
-![Figura 2 –Participante 1 realizando o teste](parti.1.jpeg)
+![Figura 2 –Participante 1 realizando o teste](Imagens-AU/parti.1.jpeg)
 
 
 
@@ -67,7 +67,7 @@ As evidências da execução incluem registros que comprovam a realização dos 
 
 
 **Figura 3 - Participante 2 realizando o teste.**
-![Figura 3 –Participante 2 realizando o teste](parti.2.jpeg)
+![Figura 3 –Participante 2 realizando o teste](Imagens-AU/parti.2.jpeg)
 
 
 
@@ -84,7 +84,7 @@ As evidências da execução incluem registros que comprovam a realização dos 
 
 
 **Figura 5 - Participante 4 realizando o teste.**
-![Figura 5 – Participante 4 realizando a teste](parti.4.jpeg)
+![Figura 5 – Participante 4 realizando a teste](Imagens-AU/parti.4.jpeg)
 
 
 
@@ -92,7 +92,7 @@ As evidências da execução incluem registros que comprovam a realização dos 
 
 
 **Figura 6 - Participante 5 realizando o teste.**
-![Figura 6 –Participante 5 realizando o teste](parti.5.jpeg)
+![Figura 6 –Participante 5 realizando o teste](Imagens-AU/parti.5.jpeg)
 
 
 
@@ -100,14 +100,14 @@ As evidências da execução incluem registros que comprovam a realização dos 
 
 
 **Figura 7 - Participante 6 realizando o teste.**
-![Figura 7 –Participante 6 realizando o teste](parti.6.jpeg)
+![Figura 7 –Participante 6 realizando o teste](Imagens-AU/parti.6.jpeg)
 
 
 
 
 
 **Figura 8 - Participante 7 realizando o teste.**
-![Figura 8 –Participante 7 realizando o teste](parti.7.jpeg)
+![Figura 8 –Participante 7 realizando o teste](Imagens-AU/parti.7.jpeg)
 
 
 
@@ -117,7 +117,7 @@ As evidências da execução incluem registros que comprovam a realização dos 
 
 
 **Figura 9 - Participante 8 realizando o teste.**
-![Figura 9 – Participante 8 realizando o teste](parti.8.jpeg)
+![Figura 9 – Participante 8 realizando o teste](Imagens-AU/parti.8.jpeg)
 
 
 
