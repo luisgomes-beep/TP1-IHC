@@ -40,7 +40,7 @@ A planilha classifica Atratividade como **Below Average** (abaixo da média) e a
 ### 4.1 Respostas abertas analisadas
 Inserir as respostas abertas originais, organizadas por participante.
 
-![Figura - 3](Imagens/part1.jpeg)
+![figura](Imagens-UX/part1.jpeg)
 
 ### 4.2 Processo de codificação no ATLAS.ti
 Inserir capturas de tela que mostrem os trechos codificados e os códigos associados.
