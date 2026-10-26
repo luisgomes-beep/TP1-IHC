@@ -79,25 +79,19 @@ Foi realizado um teste com participantes externos à equipe, utilizando tarefas 
 
 [Ver teste de usabilidade](01-avaliacao-usabilidade/2-teste.md)
 
-### 6.3. Planejamento e materiais relacionados 
-
-Esta seção reúne o planejamento e os materiais relacionados à realização do teste de usabilidade, incluindo o formulário elaborado no **Google Forms**, as gravações de tela e as gravações de áudio realizadas com o gravador de tela e o microfone nativos do Windows, além dos ajustes efetuados após o teste piloto.
-
-[Ver materiais do registro das tarefas](01-avaliacao-usabilidade/3-registro-das-tarefas.md)
-
-### 6.4. Avaliação da experiência do usuário
+### 6.3. Avaliação da experiência do usuário
 
 A experiência do usuário foi analisada por meio do User Experience Questionnaire (UEQ) e da análise qualitativa das respostas abertas dos participantes, utilizando a ferramenta ATLAS.ti.
 
 [Ver avaliação de UX](02-avaliacao-ux/experiencia-de-uso.md)
 
-### 6.5. Avaliação de acessibilidade
+### 6.4. Avaliação de acessibilidade
 
 Foi realizada uma inspeção considerando as diretrizes WCAG 2.2, com verificações de navegação por teclado, leitor de tela, contraste visual e outros aspectos relevantes de acessibilidade.
 
 [Ver avaliação de acessibilidade](03-avaliacao-acessibilidade/inspecao-de-acessibilidade.md)
 
-### 6.6. Avaliação de comunicabilidade
+### 6.5. Avaliação de comunicabilidade
 
 Foi aplicado o Método de Avaliação de Comunicabilidade (MAC), com sessões de interação gravadas e análise das rupturas de comunicação identificadas durante a execução das tarefas.
 
