@@ -307,9 +307,18 @@ A análise dos resultados quantitativos permite relacionar as dificuldades obser
 
 Em contrapartida, a localização do chat apresentou uma taxa de sucesso de 100%, demonstrando maior facilidade dos participantes nessa atividade. A tarefa de seguir um canal e o acesso às notificações também apresentaram resultados relativamente positivos, embora tenham ocorrido dificuldades individuais. Esses dados ajudam a diferenciar os recursos que foram localizados com maior facilidade daqueles que podem exigir melhorias na organização e na apresentação das opções da plataforma.
 
-**[Inserir tabela com as respostas abertas, os fatores de usabilidade relacionados e uma explicação dos resultados.]**
+| Resposta ou aspecto relatado | Fator de usabilidade relacionado | Interpretação |
+|---|---|---|
+| Dificuldade para localizar categorias | Facilidade de aprendizagem e eficiência | A organização e a visibilidade das categorias podem dificultar a descoberta de conteúdos. |
+| Dificuldade para ajustar a qualidade do vídeo | Eficiência e clareza da interface | A localização dos controles de vídeo pode exigir mais tempo e esforço durante a execução da tarefa. |
+| Dificuldade para buscar transmissões em outros idiomas | Eficiência e facilidade de aprendizagem | A dificuldade relatada pode indicar limitações na identificação ou utilização dos recursos de pesquisa e filtragem. |
+| Facilidade para localizar o chat | Eficiência e clareza da interface | A taxa de sucesso de 100% nessa tarefa indica que o recurso foi localizado com facilidade pelos participantes avaliados. |
+| Dificuldades individuais ao seguir canais ou acessar notificações | Eficiência e facilidade de aprendizagem | Embora os resultados tenham sido relativamente positivos, as dificuldades individuais indicam oportunidades de melhoria na apresentação desses recursos. |
+| Opiniões, sugestões e dificuldades presentes nas respostas abertas | Satisfação e experiência de uso | Os comentários complementam os dados quantitativos e ajudam a compreender a percepção dos participantes sobre a utilização da Twitch. |
 
-(depois de inserir a tabela colocar o resto do texto)
+A relação entre os fatores de usabilidade e os resultados foi estabelecida considerando as atividades avaliadas e as dificuldades descritas no teste. Os resultados indicam que a localização de categorias, o ajuste da qualidade do vídeo e a pesquisa de transmissões em outros idiomas merecem atenção, enquanto a localização do chat apresentou um resultado favorável. Recomenda-se melhorar a visibilidade e a organização dos recursos que exigiram maior esforço, além de investigar as dificuldades individuais observadas.
+
+As interpretações devem ser consideradas em conjunto com os registros efetivos do teste e as respostas originais dos participantes. Quando necessário, a tabela deverá ser complementada com citações reais dos comentários, evitando apresentar interpretações como se fossem respostas literais.
 
 ## Considerações sobre o Teste de Usabilidade
 
