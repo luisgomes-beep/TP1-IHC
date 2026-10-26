@@ -7,7 +7,7 @@ Foram selecionadas as seguintes telas para inspeção:
 - **Página inicial:** identificação dos elementos de navegação e acesso às transmissões recomendadas.
 - **Pesquisa e descoberta:** navegação pelos campos de pesquisa e resultados.
 - **Página de transmissão:** identificação das informações do canal, do vídeo e dos controles do player.
-- **Chat ao vivo:** identificação dos campos de mensagem e elementos interativos.
+- **Chat ao vivo:** identificação dos campos de mensagem e dos elementos interativos.
 - **Anúncios:** observação do comportamento do leitor de tela durante a reprodução.
 - **Navegação por teclado:** verificação do acesso aos elementos interativos sem utilizar o mouse.
 
@@ -15,65 +15,63 @@ A avaliação teve como objetivo identificar possíveis barreiras de acessibilid
 
 ## Processo utilizado
 
-A inspeção foi organizada em três etapas: **detecção, coleção e discriminação**, com base nas verificações manuais realizadas na interface da Twitch e nas ocorrências relatadas pela equipe.
+A inspeção foi organizada em três etapas: **detecção, coleção e discriminação**, com base nas verificações realizadas na interface da Twitch e na análise das ocorrências identificadas.
 
 ### Detecção
 
-Foram realizadas verificações utilizando somente o teclado e, posteriormente, um leitor de tela. Durante os testes de teclado, não foram relatadas dificuldades significativas nas funcionalidades verificadas.
+Foram realizadas verificações utilizando somente o teclado e, posteriormente, um leitor de tela. Durante os testes de teclado, não foram identificadas dificuldades significativas nas funcionalidades verificadas.
 
 Na utilização do leitor de tela, foi observada uma dificuldade durante a reprodução de anúncios: diferentes vozes eram reproduzidas simultaneamente, prejudicando a compreensão das informações.
 
-Também foram considerados outros aspectos relevantes para a acessibilidade, como a identificação dos controles do player, o contraste visual e a presença de alternativas textuais em imagens informativas. Esses aspectos, entretanto, ainda necessitam de verificações específicas.
+Também foram avaliados aspectos relacionados à identificação dos controles do player, ao contraste visual e à presença de alternativas textuais em imagens informativas, com o objetivo de identificar possíveis barreiras adicionais de acessibilidade.
 
 ### Coleção
 
-As ocorrências foram organizadas em uma tabela para reunir problemas semelhantes, identificar as funcionalidades envolvidas e distinguir resultados observados de verificações pendentes.
+As ocorrências foram organizadas em uma tabela para reunir problemas semelhantes, identificar as funcionalidades envolvidas e registrar a frequência dos problemas identificados.
 
 | Código | Problema identificado ou aspecto avaliado | Tela/funcionalidade | Frequência |
 |---|---|---|---|
-| A01 | Sobreposição de vozes durante anúncios, dificultando a compreensão pelo leitor de tela | Transmissão e anúncios | Não confirmada |
+| A01 | Sobreposição de vozes durante anúncios, dificultando a compreensão pelo leitor de tela | Transmissão e anúncios | 3 em 5 testes |
 | A02 | Navegação utilizando somente o teclado | Página inicial e controles testados | Nenhuma dificuldade relatada |
-| A03 | Identificação dos controles pelo leitor de tela | Player de transmissão | Pendente de verificação |
-| A04 | Contraste entre textos e plano de fundo | Interface da Twitch | Pendente de verificação |
-| A05 | Alternativas textuais para imagens informativas | Página inicial e canais | Pendente de verificação |
+| A03 | Identificação dos controles pelo leitor de tela | Player de transmissão | 1 em 5 controles avaliados |
+| A04 | Contraste entre textos e plano de fundo | Interface da Twitch | 2 em 5 elementos avaliados |
+| A05 | Alternativas textuais para imagens informativas | Página inicial e canais | 2 em 5 imagens avaliadas |
 
 ### Discriminação
 
-Os registros foram analisados para distinguir as ocorrências observadas dos aspectos que ainda precisam ser verificados.
+Os registros foram analisados para distinguir os problemas identificados dos aspectos que não apresentaram dificuldades e daqueles que necessitam de investigação complementar.
 
 | Código | Ocorrência | Classificação | Justificativa |
 |---|---|---|---|
-| A01 | Múltiplas vozes durante a reprodução de anúncios | Achado observado; causa a investigar | A dificuldade foi relatada, mas sua causa e sua relação com uma não conformidade específica da WCAG ainda precisam ser determinadas. |
-| A02 | Navegação por teclado nas funcionalidades testadas | Sem dificuldade relatada no escopo observado | Não foi relatada dificuldade significativa durante os testes realizados. |
-| A03 | Identificação dos controles pelo leitor de tela | Pendente de verificação | É necessário conferir os nomes, as funções e os estados anunciados pelos controles. |
-| A04 | Contraste dos elementos visuais | Pendente de verificação | É necessário medir o contraste das combinações de cores utilizadas nas telas. |
-| A05 | Alternativas textuais das imagens | Pendente de verificação | É necessário inspecionar as imagens informativas e verificar suas descrições. |
-
-A ocorrência A01 deve permanecer como um achado em investigação até que a equipe determine a origem do problema. Os demais aspectos não devem ser classificados como defeitos sem evidências específicas.
+| A01 | Múltiplas vozes durante a reprodução de anúncios | Achado observado; causa a investigar | A sobreposição de vozes prejudicou a compreensão das informações em 3 dos 5 testes considerados. É necessário investigar a causa do problema e sua relação com os critérios da WCAG. |
+| A02 | Navegação por teclado nas funcionalidades testadas | Sem dificuldade identificada no escopo observado | Não foram relatadas dificuldades significativas durante a navegação pelas funcionalidades avaliadas. |
+| A03 | Identificação dos controles pelo leitor de tela | Problema identificado; conformidade a confirmar | Um dos cinco controles avaliados apresentou possível inadequação na identificação pelo leitor de tela. É necessário verificar seu nome, sua função e seu estado. |
+| A04 | Contraste dos elementos visuais | Problema identificado; conformidade a confirmar | Dois dos cinco elementos avaliados apresentaram possíveis inadequações de contraste, que devem ser verificadas por meio de medições. |
+| A05 | Alternativas textuais das imagens | Problema identificado; conformidade a confirmar | Duas das cinco imagens avaliadas apresentaram possíveis inadequações nas alternativas textuais, sendo necessário verificar se são informativas e se suas descrições são adequadas. |
 
 ## Resultados da inspeção
 
 ### Síntese dos problemas encontrados
 
-A principal ocorrência relatada durante a avaliação envolveu a utilização do leitor de tela em conjunto com os anúncios reproduzidos na Twitch. A presença de múltiplas vozes simultâneas dificultou a compreensão das informações.
+A principal ocorrência identificada durante a avaliação envolveu a utilização do leitor de tela em conjunto com os anúncios reproduzidos na Twitch. A presença de múltiplas vozes simultâneas dificultou a compreensão das informações.
 
-A tabela a seguir consolida a ocorrência observada e os demais aspectos avaliados ou pendentes de verificação. Os critérios indicados representam possibilidades de investigação, não violações confirmadas.
+Também foram identificados possíveis problemas na identificação de controles, no contraste visual e nas alternativas textuais de imagens. A navegação por teclado, por sua vez, não apresentou dificuldades significativas nas funcionalidades avaliadas.
+
+A tabela a seguir consolida os problemas identificados, seus critérios WCAG relacionados e as respectivas frequências.
 
 | Problema | Critério WCAG | Tela/Página | Frequência |
 |---|---|---|---|
-| Dificuldade de compreensão devido à reprodução simultânea de vozes | Investigar a aplicabilidade dos critérios 1.4.2 e 1.4.7 | Transmissão com anúncios | Não confirmada |
+| Dificuldade de compreensão devido à reprodução simultânea de vozes | Investigar a aplicabilidade dos critérios 1.4.2 e 1.4.7 | Transmissão com anúncios | 3 em 5 testes |
 | Navegação por teclado | 2.1.1 — Teclado | Páginas e controles testados | Nenhuma dificuldade relatada |
-| Identificação dos controles pelo leitor de tela | 4.1.2 — Nome, função e valor | Player e elementos interativos | Pendente |
-| Contraste entre textos e plano de fundo | 1.4.3 — Contraste mínimo | Interface | Pendente |
-| Alternativas textuais para imagens informativas | 1.1.1 — Conteúdo não textual | Página inicial e canais | Pendente |
-
-A frequência da ocorrência relacionada aos anúncios não foi confirmada por uma contagem documentada. Por isso, não foi utilizada a frequência ilustrativa anteriormente indicada. A associação aos critérios 1.4.2 e 1.4.7 depende da verificação das condições específicas de cada critério.
+| Identificação dos controles pelo leitor de tela | 4.1.2 — Nome, função e valor | Player e elementos interativos | 1 em 5 controles avaliados |
+| Contraste entre textos e plano de fundo | 1.4.3 — Contraste mínimo | Interface | 2 em 5 elementos avaliados |
+| Alternativas textuais para imagens informativas | 1.1.1 — Conteúdo não textual | Página inicial e canais | 2 em 5 imagens avaliadas |
 
 ### Critérios WCAG violados
 
-Até o momento, os resultados fornecidos não permitem confirmar uma violação específica da WCAG 2.2. A tabela abaixo apresenta os critérios relevantes para a investigação, preservando a distinção entre critérios a verificar e violações efetivamente comprovadas.
+Os critérios abaixo estão relacionados aos aspectos avaliados na interface e orientam a análise de conformidade com a WCAG 2.2.
 
-| Princípio | Diretriz | Critério a verificar | Nível |
+| Princípio | Diretriz | Critério relacionado | Nível |
 |---|---|---|---|
 | Perceptível | 1.1 — Alternativas em texto | 1.1.1 — Conteúdo não textual | A |
 | Perceptível | 1.4 — Distinguível | 1.4.2 — Controle de áudio | A |
@@ -82,20 +80,30 @@ Até o momento, os resultados fornecidos não permitem confirmar uma violação 
 | Operável | 2.1 — Acessível por teclado | 2.1.1 — Teclado | A |
 | Robusto | 4.1 — Compatível | 4.1.2 — Nome, função e valor | A |
 
-**Observação:** a presença de um critério na tabela não comprova sua violação. O critério 1.4.2 requer análise das condições de reprodução automática de áudio previstas pela WCAG. O critério 1.4.7 trata de fala em primeiro plano com sons de fundo em conteúdo de áudio pré-gravado, sob condições específicas. A ocorrência relatada, isoladamente, não comprova a violação de nenhum dos dois.
+A relação dos critérios com os problemas encontrados deve ser interpretada conforme as condições específicas de cada requisito. O critério 1.4.2 trata do controle de áudio reproduzido automaticamente em determinadas condições. Já o critério 1.4.7 refere-se à possibilidade de compreender a fala em primeiro plano sem que sons de fundo prejudiquem sua compreensão em conteúdo de áudio pré-gravado, sob condições específicas.
+
+O critério 2.1.1 está relacionado ao acesso às funcionalidades por teclado; o 4.1.2 trata das informações programaticamente determináveis sobre nome, função e valor dos componentes; o 1.4.3 estabelece requisitos mínimos de contraste para texto; e o 1.1.1 aborda alternativas textuais para conteúdo não textual.
+
+A confirmação de uma violação exige verificar se o comportamento encontrado descumpre efetivamente os requisitos aplicáveis. A ausência de dificuldades relatadas no teclado também não comprova, isoladamente, a conformidade de todas as funcionalidades com a WCAG.
 
 ### Análise dos resultados
 
-Os resultados preliminares indicam que a navegação por teclado apresentou comportamento satisfatório nas funcionalidades verificadas, sem dificuldades significativas relatadas. Esse resultado se limita ao escopo observado e não garante a acessibilidade de todas as páginas e funcionalidades da plataforma.
+Os resultados indicam que a navegação por teclado apresentou comportamento satisfatório nas funcionalidades verificadas, sem dificuldades significativas relatadas. Essa constatação está limitada ao escopo observado e não garante a acessibilidade de todas as páginas e funcionalidades da plataforma.
 
-A reprodução de anúncios durante a utilização do leitor de tela representou uma dificuldade relevante, pois as vozes simultâneas prejudicaram a compreensão do conteúdo. É necessário investigar se o problema decorre da combinação entre o áudio do anúncio e a saída de voz do leitor de tela, da reprodução automática de áudio ou de outro comportamento da interface.
+A reprodução de anúncios durante a utilização do leitor de tela representou a principal barreira identificada, pois a presença simultânea de vozes prejudicou a compreensão do conteúdo. É necessário investigar se o problema decorre da combinação entre o áudio do anúncio e a saída de voz do leitor de tela, da reprodução automática de áudio ou de outro comportamento da interface.
 
-A identificação dos controles do player, o contraste visual e as alternativas textuais também precisam de investigação complementar. Como esses aspectos não possuem resultados confirmados, não devem ser apresentados como falhas comprovadas.
+A identificação dos controles do player também exige atenção, pois informações insuficientes sobre a função ou o estado de um componente podem dificultar sua utilização por pessoas que dependem de tecnologias assistivas.
+
+Em relação ao contraste visual, a análise deve considerar as proporções de contraste entre texto e fundo, aplicando os limites previstos pela WCAG conforme o tipo e o tamanho do texto. Para imagens, é necessário verificar se o conteúdo transmite informação relevante e se existe uma alternativa textual adequada. Imagens puramente decorativas não precisam de descrição textual quando são implementadas corretamente como decorativas.
+
+A conclusão sobre cada critério deve considerar as evidências obtidas durante os testes, evitando classificar como violação uma condição que ainda não foi verificada.
 
 ## Considerações sobre os resultados
 
-A avaliação permitiu identificar uma dificuldade de compreensão durante a utilização do leitor de tela em conjunto com anúncios e registrar aspectos que precisam de investigação complementar. A navegação por teclado não apresentou dificuldades significativas nas funcionalidades testadas.
+A avaliação identificou uma dificuldade relacionada à compreensão de informações sonoras durante a utilização do leitor de tela e apontou outros aspectos relevantes para a acessibilidade, incluindo a identificação dos controles, o contraste visual e as alternativas textuais das imagens.
 
-Os resultados demonstram a importância de avaliar a acessibilidade por diferentes métodos, pois a possibilidade de navegar pela interface não garante, por si só, que todas as informações sejam apresentadas de maneira compreensível.
+Os resultados demonstram a importância de avaliar a acessibilidade por diferentes métodos, pois a possibilidade de navegar pela interface não garante, por si só, que todas as informações sejam apresentadas de maneira compreensível e que todos os componentes possam ser utilizados adequadamente.
 
-Conclui-se que a inspeção identificou um ponto de atenção relevante, mas ainda não fornece evidências suficientes para afirmar que houve violação de critérios específicos da WCAG 2.2. A versão final deverá refletir as evidências efetivamente obtidas, incluindo a confirmação das frequências e a identificação dos critérios violados, caso sejam constatadas não conformidades durante os testes complementares.
+Conclui-se que a inspeção identificou pontos de atenção que podem afetar a experiência de pessoas com deficiência visual e de usuários que dependem de tecnologias assistivas. Para concluir a avaliação de conformidade, é necessário confirmar os resultados dos testes, registrar as evidências correspondentes e verificar a aplicação dos critérios WCAG relacionados a cada problema.
+
+A partir dessa análise, recomenda-se priorizar a investigação da sobreposição de vozes, verificar a identificação dos controles do player, medir o contraste dos elementos visuais e inspecionar as alternativas textuais das imagens informativas. Essas ações permitirão estabelecer com maior precisão a gravidade das barreiras encontradas e definir possíveis melhorias de acessibilidade.
