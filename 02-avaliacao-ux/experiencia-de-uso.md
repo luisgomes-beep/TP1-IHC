@@ -37,8 +37,6 @@ A planilha classifica Atratividade como **Below Average** (abaixo da média) e a
 
 ## 4. Análise qualitativa
 
-Esta seção deve ser completada com as respostas abertas dos participantes. No ATLAS.ti, importem os comentários, codifiquem trechos reais das respostas e documentem os códigos identificados. Não criem códigos apenas com base nas médias numéricas: cada código precisa estar fundamentado em um comentário efetivamente coletado.
-
 ### 4.1 Respostas abertas analisadas
 Inserir as respostas abertas originais, organizadas por participante.
 
