@@ -53,8 +53,13 @@ Durante a execução das tarefas, foram observadas as dificuldades apresentadas 
 | Etiqueta | Ocorrências (P1) | Ocorrências (P2) | Total | Tarefas mais afetadas |
 |---|---:|---:|---:|---|
 | [Etiqueta identificada] | [N] | [N] | [N] | [Tarefas] |
+| [Etiqueta identificada] | [N] | [N] | [N] | [Tarefas] |
+| [Etiqueta identificada] | [N] | [N] | [N] | [Tarefas] |
+| [Etiqueta identificada] | [N] | [N] | [N] | [Tarefas] |
+| [Etiqueta identificada] | [N] | [N] | [N] | [Tarefas] |
+| [Etiqueta identificada] | [N] | [N] | [N] | [Tarefas] |
+| [Etiqueta identificada] | [N] | [N] | [N] | [Tarefas] |
 
-[Adicionar linhas conforme as etiquetas identificadas durante a avaliação.]
 
 
 [Apresentar os principais resultados da avaliação, destacando quais etiquetas apareceram com maior frequência, quais tarefas apresentaram mais rupturas e o que esses resultados indicam sobre a comunicação entre o sistema e os usuários.]
