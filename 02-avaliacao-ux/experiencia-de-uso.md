@@ -29,7 +29,7 @@ O primeiro gráfico compara as médias das seis dimensões avaliadas. Atrativida
 
 ### 3.2 Comparação com o benchmark
 
-![Figura-2-Benchmark](Imagens-UX/grafico-02-benchmark.png)
+![Figura-2-benchmark](Imagens-UX/grafico-02-benchmark.png)
 
 **Figura 2 — Médias e classificação comparativa no benchmark do UEQ.**
 
@@ -39,6 +39,8 @@ A planilha classifica Atratividade como **Below Average** (abaixo da média) e a
 
 ### 4.1 Respostas abertas analisadas
 Inserir as respostas abertas originais, organizadas por participante.
+
+![Figura - 3](Imagens/part1.jpeg)
 
 ### 4.2 Processo de codificação no ATLAS.ti
 Inserir capturas de tela que mostrem os trechos codificados e os códigos associados.
