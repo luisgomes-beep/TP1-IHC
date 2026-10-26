@@ -47,7 +47,7 @@ As evidências da execução incluem registros que comprovam a realização dos 
 
 
 **Figura 1 — Participante Piloto durante a realização do teste.**
-![Figura 1 - Participante Piloto ](piloto.jpeg)
+![Figura 1 - Participante Piloto ](Imagens-AU/piloto.jpeg)
 
 
 
