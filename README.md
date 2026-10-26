@@ -127,7 +127,6 @@ TP1-IHC/
 ├── 01-avaliacao-usabilidade/
 │   ├── 1-inspecao.md
 │   ├── 2-teste.md
-│   └── 3-registro-das-tarefas.md
 ├── 02-avaliacao-ux/
 │   └── experiencia-de-uso.md
 ├── 03-avaliacao-acessibilidade/
