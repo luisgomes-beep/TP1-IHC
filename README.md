@@ -115,8 +115,6 @@ As ferramentas utilizadas foram registradas conforme sua aplicação durante o d
 - **UEQ:** avaliação quantitativa da experiência do usuário.
 - **ATLAS.ti:** análise qualitativa das respostas e construção das redes de códigos.
 
-*(Adicionem outras ferramentas utilizadas, caso necessário.)*
-
 
 ## 8. Organização do repositório
 
