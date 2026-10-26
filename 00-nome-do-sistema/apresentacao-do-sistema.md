@@ -1,4 +1,3 @@
-(adicionar imagens e etc)
 # Apresentação do Sistema — Twitch
 
 ## 1. Identificação do sistema
