@@ -42,4 +42,3 @@ A classificação relaciona os problemas identificados aos princípios, às dire
 
 Os resultados da avaliação permitem analisar as principais barreiras de acessibilidade identificadas na Twitch, considerando sua frequência e localização. A relação entre os problemas encontrados e os critérios da WCAG 2.2 contribuiu para compreender os aspectos da interface que podem dificultar a navegação, a compreensão das informações e a utilização das funcionalidades.
 
-colocar textinho depois da edição do vídeo
