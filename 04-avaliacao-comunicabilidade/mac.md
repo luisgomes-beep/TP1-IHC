@@ -33,10 +33,17 @@ Durante a execução das tarefas, foram observadas as dificuldades apresentadas 
 
 ## Etiquetagem das rupturas
 
-[Explicar o que a tabela apresenta e discutir as ocorrências identificadas durante a análise dos vídeos.]
-
 | Part. | Tarefa | Tela/Elemento | Situação observada | Tipo de falha | Etiqueta | Problema de comunicabilidade |
 |---|---|---|---|---|---|---|
+| [U1/U2] | [T1–T10] | [Tela ou elemento] | [Trecho observado] | [Classificação] | [Etiqueta MAC] | [Breve explicação] |
+| [U1/U2] | [T1–T10] | [Tela ou elemento] | [Trecho observado] | [Classificação] | [Etiqueta MAC] | [Breve explicação] |
+| [U1/U2] | [T1–T10] | [Tela ou elemento] | [Trecho observado] | [Classificação] | [Etiqueta MAC] | [Breve explicação] |
+| [U1/U2] | [T1–T10] | [Tela ou elemento] | [Trecho observado] | [Classificação] | [Etiqueta MAC] | [Breve explicação] |
+| [U1/U2] | [T1–T10] | [Tela ou elemento] | [Trecho observado] | [Classificação] | [Etiqueta MAC] | [Breve explicação] |
+| [U1/U2] | [T1–T10] | [Tela ou elemento] | [Trecho observado] | [Classificação] | [Etiqueta MAC] | [Breve explicação] |
+| [U1/U2] | [T1–T10] | [Tela ou elemento] | [Trecho observado] | [Classificação] | [Etiqueta MAC] | [Breve explicação] |
+| [U1/U2] | [T1–T10] | [Tela ou elemento] | [Trecho observado] | [Classificação] | [Etiqueta MAC] | [Breve explicação] |
+| [U1/U2] | [T1–T10] | [Tela ou elemento] | [Trecho observado] | [Classificação] | [Etiqueta MAC] | [Breve explicação] |
 | [U1/U2] | [T1–T10] | [Tela ou elemento] | [Trecho observado] | [Classificação] | [Etiqueta MAC] | [Breve explicação] |
 
 ## Consolidação das etiquetas
