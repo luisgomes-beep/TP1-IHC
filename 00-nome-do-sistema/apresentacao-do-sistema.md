@@ -6,7 +6,7 @@
 **Categoria:** Plataforma de transmissão ao vivo (*streaming*)  
 **Endereço:** https://www.twitch.tv/
 
-![Logo da Twitch](Imagens-AU/amazon-twitch-roxo-logo_large.jpg)
+![Logo da Twitch](01-avaliação-usabilidade/Imagens-AU/amazon-twitch-roxo-logo_large.jpg)
 ## 2. Descrição do sistema
 
 A Twitch é uma plataforma digital voltada principalmente para transmissões ao vivo, permitindo que criadores de conteúdo transmitam vídeos e interajam com seus espectadores em tempo real. Embora seja bastante conhecida pelas transmissões de jogos eletrônicos, a plataforma também possui conteúdos relacionados a música, conversas, entretenimento e outras categorias.
