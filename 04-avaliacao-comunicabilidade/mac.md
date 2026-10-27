@@ -48,22 +48,23 @@ De modo geral, as ocorrências evidenciam dificuldades de localização, interpr
 
 ## Consolidação das etiquetas
 
-[Explicar o que a tabela apresenta e discutir os resultados observados.]
+A tabela de consolidação das etiquetas reúne as seis ocorrências de rupturas de comunicabilidade identificadas durante os testes de usabilidade da Twitch, distribuídas entre os participantes P1 e P2. As ocorrências estão relacionadas às tarefas T2, T7 e T9, nas quais foram observadas dificuldades para selecionar o idioma de uma transmissão, compreender o símbolo das notificações e encontrar as configurações da plataforma.
+
+Entre as etiquetas identificadas, “E agora?” foi a única que apareceu nos dois participantes, indicando dificuldades para compreender como prosseguir ou localizar a funcionalidade necessária. As demais etiquetas — “Vai de outro jeito”, “O que é isto?”, “Desisto” e “Para mim está bom” — apareceram uma vez cada, representando situações específicas de navegação alternativa, interpretação de símbolos, desistência e falsa percepção de conclusão da tarefa.
+
+De modo geral, os resultados mostram que a tarefa T9 concentrou a maior quantidade de rupturas, evidenciando dificuldades na localização e compreensão das configurações da Twitch. Esses problemas indicam oportunidades de melhoria na organização das funcionalidades e na clareza dos elementos da interface, para facilitar a navegação e permitir que os usuários concluam as atividades com maior autonomia.
 
 | Etiqueta | Ocorrências (P1) | Ocorrências (P2) | Total | Tarefas mais afetadas |
 |---|---:|---:|---:|---|
-| [Etiqueta identificada] | [N] | [N] | [N] | [Tarefas] |
-| [Etiqueta identificada] | [N] | [N] | [N] | [Tarefas] |
-| [Etiqueta identificada] | [N] | [N] | [N] | [Tarefas] |
-| [Etiqueta identificada] | [N] | [N] | [N] | [Tarefas] |
-| [Etiqueta identificada] | [N] | [N] | [N] | [Tarefas] |
-| [Etiqueta identificada] | [N] | [N] | [N] | [Tarefas] |
-| [Etiqueta identificada] | [N] | [N] | [N] | [Tarefas] |
-
-
-
-[Apresentar os principais resultados da avaliação, destacando quais etiquetas apareceram com maior frequência, quais tarefas apresentaram mais rupturas e o que esses resultados indicam sobre a comunicação entre o sistema e os usuários.]
+| Vai de outro jeito | 1 | 0 | 1 | T2 |
+| O que é isto? | 1 | 0 | 1 | T7 |
+| E agora? | 1 | 1 | 2 | T9 |
+| Desisto | 1 | 0 | 1 | T9 |
+| Para mim está bom | 0 | 1 | 1 | T9 |
+| **Total** | **4** | **2** | **6** | — |
 
 ## Considerações finais
 
-[Apresentar uma síntese dos resultados da avaliação de comunicabilidade e dos principais problemas identificados.]
+A avaliação da Twitch mostrou que, apesar de a plataforma oferecer diversas funcionalidades, algumas tarefas apresentaram dificuldades para os participantes. Entre os principais problemas, destacaram-se a seleção do idioma de uma transmissão (T2), a identificação das notificações (T7) e a localização das configurações (T9). Durante essas atividades, foram observadas dificuldades de navegação, interpretação de símbolos e compreensão dos próximos passos, levando a buscas por caminhos alternativos e até à desistência de uma tarefa.
+
+Diante desses resultados, percebe-se que melhorias na organização das opções, na identificação dos ícones e na clareza das funcionalidades poderiam tornar a Twitch mais intuitiva e facilitar a navegação. Mesmo com apenas dois participantes, os testes permitiram identificar pontos importantes que podem ser aprimorados para proporcionar uma experiência mais simples, clara e eficiente aos usuários.
