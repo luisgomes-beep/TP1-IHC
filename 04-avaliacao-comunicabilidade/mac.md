@@ -33,6 +33,12 @@ Durante a execução das tarefas, foram observadas as dificuldades apresentadas 
 
 ## Etiquetagem das rupturas
 
+A tabela de etiquetagem das rupturas apresenta as dificuldades identificadas durante os testes de usabilidade da Twitch, considerando as 10 atividades propostas aos participantes. Foram registradas apenas as tarefas em que os participantes não conseguiram alcançar o objetivo esperado ou enfrentaram dificuldades significativas durante a execução.
+
+Entre as atividades analisadas, destacam-se a T2, relacionada à seleção do idioma de uma transmissão; a T7, referente à localização das notificações; e a T9, que consistia em encontrar as configurações da plataforma. Na T2, houve a necessidade de utilizar um caminho alternativo para encontrar a opção desejada. Na T7, ocorreu dificuldade para compreender o significado de um símbolo da interface. Já na T9, os participantes enfrentaram obstáculos para localizar as configurações, incluindo um caso de desistência e outro em que o participante confundiu as configurações de vídeo com as configurações gerais.
+
+De modo geral, as ocorrências evidenciam dificuldades de localização, interpretação de elementos visuais e compreensão da navegação, que prejudicaram a conclusão dessas atividades. A análise permite identificar aspectos da interface que podem ser aprimorados para tornar a Twitch mais intuitiva
+
 | Part. | Tarefa | Tela/Elemento | Situação observada | Tipo de falha | Etiqueta | Problema de comunicabilidade |
 |---|---|---|---|---|---|---|
 | P1 | T2 - Selecionar o idioma da transmissão | Categorias | A participante acessa as categorias, seleciona uma transmissão e encontra a opção de idioma por um caminho alternativo. (03:38) | Estratégia alternativa de navegação | Vai de outro jeito | A opção de idioma não é encontrada pelo caminho inicialmente esperado, levando a participante a utilizar outra estratégia para alcançar seu objetivo. |
@@ -40,7 +46,7 @@ Durante a execução das tarefas, foram observadas as dificuldades apresentadas 
 | P1| T9 - Encontrar as configurações | Tela de navegação / Configurações | A participante explora diversas opções aleatoriamente, sem identificar como concluir a tarefa. (08:27) | Dificuldade de navegação | E agora? | A interface não fornece indicações suficientemente claras para orientar a participante até a funcionalidade desejada. |
 | P1 | T9 - Encontrar as configurações | Tela de navegação | A participante admite que não conseguirá executar a tarefa e interrompe a tentativa. (10:14) | Desistência | Desisto | A participante não consegue compreender como prosseguir, indicando dificuldades para alcançar o objetivo por meio da interface. |
 | P2 | T9 - Encontrar as configurações | Tela de navegação / Configurações | O participante afirma que não consegue encontrar a funcionalidade solicitada e não conclui a tarefa. (16:37) | Dificuldade de localização | E agora? | A organização e a identificação das opções dificultam a localização da funcionalidade necessária. |
-| P3 | T9 - Encontrar as configurações | Configurações de vídeo | O participante acredita ter encontrado as configurações principais do sistema, mas acessa somente as configurações de vídeo. (18:27) | Interpretação equivocada / falso entendimento | Para mim está bom | A interface não deixa suficientemente clara a diferença entre as configurações de vídeo e as configurações gerais, levando o participante a acreditar que concluiu a tarefa. |
+| P2 | T9 - Encontrar as configurações | Configurações de vídeo | O participante acredita ter encontrado as configurações principais do sistema, mas acessa somente as configurações de vídeo. (18:27) | Interpretação equivocada / falso entendimento | Para mim está bom | A interface não deixa suficientemente clara a diferença entre as configurações de vídeo e as configurações gerais, levando o participante a acreditar que concluiu a tarefa. |
 
 ## Consolidação das etiquetas
 
