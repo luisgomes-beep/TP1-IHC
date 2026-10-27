@@ -93,8 +93,38 @@ Os códigos identificados permitiram sistematizar as informações presentes nas
 
 ### 4.4 Redes construídas no ATLAS.ti
 
-Inserir as seis redes, uma para cada dimensão: Atratividade, Perspicuidade, Eficiência, Confiabilidade, Estimulação e Novidade.
+Nesta etapa, foram elaboradas redes no ATLAS.ti para representar as relações entre as seis dimensões da experiência do usuário avaliadas pelo User Experience Questionnaire (UEQ) e os códigos identificados durante a análise qualitativa das respostas dos participantes. As redes foram organizadas em torno das dimensões Atratividade, Eficiência, Controle/Confiabilidade, Estimulação, Novidade e Perspicuidade, relacionando-as aos aspectos positivos e negativos mencionados nos relatos. Essa representação visual permite observar como os códigos foram associados a cada dimensão e facilita a interpretação das percepções dos participantes sobre a experiência de uso da plataforma Twitch.
 
-## 5. Considerações sobre a experiência do usuário
+**Atratividade**
+![figura](Imagens-UX/Atratividade.png)
 
-Os resultados indicam uma percepção mais favorável de Atratividade, enquanto Perspicuidade e Novidade apresentaram as menores médias. Entretanto, a comparação com o benchmark mostra que Atratividade ficou abaixo da média de referência e que as demais dimensões foram classificadas na faixa dos 25% piores resultados do benchmark. Portanto, os dados apontam oportunidades de melhoria em diferentes aspectos da experiência de uso da Twitch. 
+**Eficiência**
+![figura](EFICIÊNCIA.png)
+
+**Controle/Confiabilidade**
+![figura](Imagens-UX/CONTROLE_CONFIABILIDADE.png)
+
+**Estimulação**
+![figura](Imagens-UX/ESTIMULAÇÂO.png)
+
+**Novidade**
+![figura](Imagens-UX/NOVIDADE.png)
+
+**Perspicuidade**
+![figura](Imagens-UX/PERSPICUIDADE.png)
+
+As redes construídas evidenciam diferentes aspectos da experiência dos participantes durante a utilização da Twitch. Na dimensão **Atratividade**, foram associados aspectos positivos, como variedade de conteúdo, interação social e facilidade para encontrar transmissões, que contribuíram para a percepção da plataforma. Na dimensão **Eficiência**, foram representadas questões relacionadas à localização de recursos, à organização da interface, à visibilidade dos elementos e à presença de informações na tela, indicando aspectos que podem facilitar ou dificultar a navegação.
+
+Na dimensão **Controle/Confiabilidade**, foram relacionados aspectos como dificuldades de navegação, problemas de visibilidade, excesso de informações e desorganização da interface. Já as redes de **Estimulação** e **Novidade** reuniram aspectos referentes à variedade de conteúdo, às transmissões ao vivo, à interação social e às possibilidades de aprimoramento da experiência oferecida pela plataforma. Por fim, a dimensão **Perspicuidade** destacou questões relacionadas à compreensão da interface, à localização de recursos, à facilidade de navegação e à identificação de informações.
+
+As relações representadas nas redes permitem visualizar aproximações e contradições entre os códigos associados às dimensões analisadas. Dessa forma, a análise qualitativa complementa a avaliação da experiência do usuário ao organizar os relatos em categorias interpretativas e evidenciar aspectos da interface que foram percebidos de maneiras distintas pelos participantes.
+
+#### 5. Considerações sobre a experiência do usuário
+
+Os resultados indicam uma percepção mais favorável de Atratividade, enquanto Perspicuidade e Novidade apresentaram as menores médias. Entretanto, a comparação com o benchmark mostra que Atratividade ficou abaixo da média de referência e que as demais dimensões foram classificadas na faixa dos 25% piores resultados do benchmark. Portanto, os dados apontam oportunidades de melhoria em diferentes aspectos da experiência de uso da Twitch.
+
+A análise qualitativa realizada no ATLAS.ti complementou os resultados quantitativos ao organizar os relatos dos participantes em códigos e redes relacionados às dimensões da experiência do usuário. Entre os aspectos identificados, destacaram-se percepções positivas relacionadas à variedade de conteúdo, à interação social e à facilidade para encontrar transmissões. Por outro lado, também foram registrados aspectos que podem dificultar a experiência, como problemas de visibilidade, excesso de informações na tela, dificuldades de navegação e localização de recursos.
+
+A análise conjunta dos resultados evidencia que, embora a plataforma apresente características percebidas positivamente pelos participantes, ainda existem aspectos da interface que podem ser aprimorados. Entre as possibilidades de melhoria estão a organização visual dos elementos, a facilidade de localização de conteúdos e recursos e a redução de obstáculos durante a navegação.
+
+Conclui-se que a avaliação permitiu identificar aspectos favoráveis e oportunidades de melhoria na experiência de uso da Twitch. A combinação dos resultados quantitativos do UEQ com a análise qualitativa das respostas contribuiu para uma compreensão mais ampla das percepções dos participantes, oferecendo subsídios para futuras melhorias na usabilidade e na experiência de uso da plataforma.
