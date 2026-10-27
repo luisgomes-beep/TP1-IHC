@@ -80,23 +80,13 @@ Os critérios abaixo estão relacionados aos aspectos avaliados na interface e o
 | Operável | 2.1 — Acessível por teclado | 2.1.1 — Teclado | A |
 | Robusto | 4.1 — Compatível | 4.1.2 — Nome, função e valor | A |
 
-A relação dos critérios com os problemas encontrados deve ser interpretada conforme as condições específicas de cada requisito. O critério 1.4.2 trata do controle de áudio reproduzido automaticamente em determinadas condições. Já o critério 1.4.7 refere-se à possibilidade de compreender a fala em primeiro plano sem que sons de fundo prejudiquem sua compreensão em conteúdo de áudio pré-gravado, sob condições específicas.
+O critério 1.4.2 trata do controle de áudio reproduzido automaticamente em determinadas condições. Já o critério 1.4.7 refere-se à possibilidade de compreender a fala em primeiro plano sem que sons de fundo prejudiquem sua compreensão em conteúdo de áudio pré-gravado, sob condições específicas.
 
 O critério 2.1.1 está relacionado ao acesso às funcionalidades por teclado; o 4.1.2 trata das informações programaticamente determináveis sobre nome, função e valor dos componentes; o 1.4.3 estabelece requisitos mínimos de contraste para texto; e o 1.1.1 aborda alternativas textuais para conteúdo não textual.
 
-A confirmação de uma violação exige verificar se o comportamento encontrado descumpre efetivamente os requisitos aplicáveis. A ausência de dificuldades relatadas no teclado também não comprova, isoladamente, a conformidade de todas as funcionalidades com a WCAG.
-
 ### Análise dos resultados
 
-Os resultados indicam que a navegação por teclado apresentou comportamento satisfatório nas funcionalidades verificadas, sem dificuldades significativas relatadas. Essa constatação está limitada ao escopo observado e não garante a acessibilidade de todas as páginas e funcionalidades da plataforma.
-
-A reprodução de anúncios durante a utilização do leitor de tela representou a principal barreira identificada, pois a presença simultânea de vozes prejudicou a compreensão do conteúdo. É necessário investigar se o problema decorre da combinação entre o áudio do anúncio e a saída de voz do leitor de tela, da reprodução automática de áudio ou de outro comportamento da interface.
-
-A identificação dos controles do player também exige atenção, pois informações insuficientes sobre a função ou o estado de um componente podem dificultar sua utilização por pessoas que dependem de tecnologias assistivas.
-
-Em relação ao contraste visual, a análise deve considerar as proporções de contraste entre texto e fundo, aplicando os limites previstos pela WCAG conforme o tipo e o tamanho do texto. Para imagens, é necessário verificar se o conteúdo transmite informação relevante e se existe uma alternativa textual adequada. Imagens puramente decorativas não precisam de descrição textual quando são implementadas corretamente como decorativas.
-
-A conclusão sobre cada critério deve considerar as evidências obtidas durante os testes, evitando classificar como violação uma condição que ainda não foi verificada.
+Os resultados indicam que a navegação por teclado apresentou comportamento satisfatório nas funcionalidades verificadas, sem dificuldades significativas relatadas e a reprodução de anúncios durante a utilização do leitor de tela representou a principal barreira identificada, pois a presença simultânea de vozes prejudicou a compreensão do conteúdo. 
 
 ## Considerações sobre os resultados
 
