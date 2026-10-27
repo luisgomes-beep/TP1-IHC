@@ -35,7 +35,7 @@ Durante a execução das tarefas, foram observadas as dificuldades apresentadas 
 
 | Part. | Tarefa | Tela/Elemento | Situação observada | Tipo de falha | Etiqueta | Problema de comunicabilidade |
 |---|---|---|---|---|---|---|
-| [P1] | [T2] | [Categorias] | [A participante acessa as categorias, seleciona uma transmissão e encontra a opção de idioma por um caminho alternativo. (03:38)] | [Estratégia alternativa de navegação] | [Vai de outro jeito] | [A opção de idioma não é encontrada pelo caminho inicialmente esperado, levando a participante a utilizar outra estratégia para alcançar seu objetivo.] |
+| P1 | T2 | Categorias | A participante acessa as categorias, seleciona uma transmissão e encontra a opção de idioma por um caminho alternativo. (03:38) | Estratégia alternativa de navegação | Vai de outro jeito | A opção de idioma não é encontrada pelo caminho inicialmente esperado, levando a participante a utilizar outra estratégia para alcançar seu objetivo. |
 | [U1/U2] | [T1–T10] | [Tela ou elemento] | [Trecho observado] | [Classificação] | [Etiqueta MAC] | [Breve explicação] |
 | [U1/U2] | [T1–T10] | [Tela ou elemento] | [Trecho observado] | [Classificação] | [Etiqueta MAC] | [Breve explicação] |
 | [U1/U2] | [T1–T10] | [Tela ou elemento] | [Trecho observado] | [Classificação] | [Etiqueta MAC] | [Breve explicação] |
