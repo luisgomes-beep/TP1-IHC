@@ -119,7 +119,7 @@ Na dimensão **Controle/Confiabilidade**, foram relacionados aspectos como dific
 
 As relações representadas nas redes permitem visualizar aproximações e contradições entre os códigos associados às dimensões analisadas. Dessa forma, a análise qualitativa complementa a avaliação da experiência do usuário ao organizar os relatos em categorias interpretativas e evidenciar aspectos da interface que foram percebidos de maneiras distintas pelos participantes.
 
-#### 5. Considerações sobre a experiência do usuário
+### 5. Considerações sobre a experiência do usuário
 
 Os resultados indicam uma percepção mais favorável de Atratividade, enquanto Perspicuidade e Novidade apresentaram as menores médias. Entretanto, a comparação com o benchmark mostra que Atratividade ficou abaixo da média de referência e que as demais dimensões foram classificadas na faixa dos 25% piores resultados do benchmark. Portanto, os dados apontam oportunidades de melhoria em diferentes aspectos da experiência de uso da Twitch.
 
