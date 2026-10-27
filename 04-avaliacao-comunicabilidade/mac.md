@@ -26,8 +26,8 @@ Durante a execução das tarefas, foram observadas as dificuldades apresentadas 
 
 ## Registro das sessões
 
-- [Vídeo do participante P1]
-- [Vídeo do participante P2]
+- [Vídeo do participante P1 e Participante P2](https://youtu.be/iZKfwwnCDW0?is=N9oAGVHfcVBwNyVn)
+
 
 ## Etiquetagem das rupturas
 
