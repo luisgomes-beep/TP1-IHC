@@ -101,7 +101,7 @@ Nesta etapa, foram elaboradas redes no ATLAS.ti para representar as relações e
 **Eficiência**
 ![figura](Imagens-UX/EFICIÊNCIA.png)
 
-**Controle/Confiabilidade**
+**Controle_Confiabilidade**
 ![figura](Imagens-UX/CONTROLE_CONFIABILIDADE.png)
 
 **Estimulação**
