@@ -95,22 +95,22 @@ Os códigos identificados permitiram sistematizar as informações presentes nas
 
 Nesta etapa, foram elaboradas redes no ATLAS.ti para representar as relações entre as seis dimensões da experiência do usuário avaliadas pelo User Experience Questionnaire (UEQ) e os códigos identificados durante a análise qualitativa das respostas dos participantes. As redes foram organizadas em torno das dimensões Atratividade, Eficiência, Controle/Confiabilidade, Estimulação, Novidade e Perspicuidade, relacionando-as aos aspectos positivos e negativos mencionados nos relatos. Essa representação visual permite observar como os códigos foram associados a cada dimensão e facilita a interpretação das percepções dos participantes sobre a experiência de uso da plataforma Twitch.
 
-**Atratividade**
+**ATRATIVIDADE**
 ![figura](Imagens-UX/Atratividade.png)
 
-**Eficiência**
+**EFICIÊNCIA**
 ![figura](Imagens-UX/EFICIÊNCIA.png)
 
-**Controle_Confiabilidade**
+**CONTROLE E CONFIABILIDADE**
 ![figura](Imagens-UX/CONTROLECONFIABILIDADE.png)
 
-**Estimulação**
+**ESTIMULAÇÃO**
 ![figura](Imagens-UX/ESTIMULAÇÃO.png)
 
-**Novidade**
+**NOVIDADE**
 ![figura](Imagens-UX/NOVIDADE.png)
 
-**Perspicuidade**
+**PERSPICUIDADE**
 ![figura](Imagens-UX/PERSPICUIDADE.png)
 
 As redes construídas evidenciam diferentes aspectos da experiência dos participantes durante a utilização da Twitch. Na dimensão **Atratividade**, foram associados aspectos positivos, como variedade de conteúdo, interação social e facilidade para encontrar transmissões, que contribuíram para a percepção da plataforma. Na dimensão **Eficiência**, foram representadas questões relacionadas à localização de recursos, à organização da interface, à visibilidade dos elementos e à presença de informações na tela, indicando aspectos que podem facilitar ou dificultar a navegação.
