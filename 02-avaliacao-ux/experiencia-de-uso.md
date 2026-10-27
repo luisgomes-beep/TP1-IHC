@@ -49,25 +49,25 @@ Nesta seção, são apresentadas as respostas abertas obtidas durante a aplicaç
 ![figura](Imagens-UX/part1.jpeg)
 
 **Participante-2**
-![figura](Imagens-UX/part2.jpeg)
+![figura](Imagens-UX/parti2.jpeg)
 
 **Participante-3**
-![figura](Imagens-UX/part3.jpeg)
+![figura](Imagens-UX/parti3.jpeg)
 
 **Participante-4**
-![figura](Imagens-UX/part4.jpeg)
+![figura](Imagens-UX/parti4.jpeg)
 
 **Participante-5**
-![figura](Imagens-UX/part5.jpeg)
+![figura](Imagens-UX/parti5.jpeg)
 
 **Participante-6**
-![figura](Imagens-UX/part6.jpeg)
+![figura](Imagens-UX/parti6.jpeg)
 
 **Participante-7**
-![figura](Imagens-UX/part7.jpeg)
+![figura](Imagens-UX/parti7.jpeg)
 
 **Participante-8**
-![figura](Imagens-UX/part8.jpeg)
+![figura](Imagens-UX/parti8.jpeg)
 
 As respostas abertas coletadas por meio do questionário foram organizadas por participante e registradas em sua forma original, preservando as opiniões, percepções e experiências relatadas durante a avaliação da plataforma Twitch. Esses registros constituem a base para a análise qualitativa, permitindo identificar aspectos recorrentes nas respostas, dificuldades mencionadas pelos participantes e percepções relacionadas à experiência de uso da plataforma. Posteriormente, as respostas foram utilizadas como material de apoio ao processo de codificação no ATLAS.ti, possibilitando relacionar os relatos dos participantes aos códigos identificados durante a análise.
 
