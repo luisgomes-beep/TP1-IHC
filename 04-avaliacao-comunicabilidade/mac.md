@@ -26,8 +26,6 @@ Durante a execução das tarefas, foram observadas as dificuldades apresentadas 
 
 ## Registro das sessões
 
-[Apresentar os links dos vídeos das sessões gravadas, contendo a tela e o áudio das interações dos participantes.]
-
 - [Vídeo do participante P1]
 - [Vídeo do participante P2]
 
