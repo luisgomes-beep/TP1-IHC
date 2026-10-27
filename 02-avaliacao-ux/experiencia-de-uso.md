@@ -38,12 +38,12 @@ A planilha classifica Atratividade como **Below Average** (abaixo da média) e a
 ## 4. Análise qualitativa
 
 ### 4.1 Respostas abertas analisadas
-Inserir as respostas abertas originais, organizadas por participante.
+
+Nesta seção, são apresentadas as respostas abertas obtidas durante a aplicação do questionário de avaliação da experiência do usuário. As respostas foram organizadas por participante e mantidas conforme os registros coletados, com o objetivo de preservar as percepções e opiniões expressadas pelos participantes. As imagens a seguir apresentam esses registros e servem como evidência dos dados utilizados posteriormente na análise qualitativa.
 
 
 **Participante Piloto**
-
-![figura](Imagens-UX/part1.jpeg)
+![figura](Imagens-UX/pilotoUX.jpeg)
 
 **Paticipante-1**
 ![figura](Imagens-UX/part1.jpeg)
@@ -69,14 +69,30 @@ Inserir as respostas abertas originais, organizadas por participante.
 **Participante-8**
 ![figura](Imagens-UX/part8.jpeg)
 
+As respostas abertas coletadas por meio do questionário foram organizadas por participante e registradas em sua forma original, preservando as opiniões, percepções e experiências relatadas durante a avaliação da plataforma Twitch. Esses registros constituem a base para a análise qualitativa, permitindo identificar aspectos recorrentes nas respostas, dificuldades mencionadas pelos participantes e percepções relacionadas à experiência de uso da plataforma. Posteriormente, as respostas foram utilizadas como material de apoio ao processo de codificação no ATLAS.ti, possibilitando relacionar os relatos dos participantes aos códigos identificados durante a análise.
+
 
 ### 4.2 Processo de codificação no ATLAS.ti
 
+Nesta etapa, foi realizado o processo de codificação das respostas abertas dos participantes utilizando o ATLAS.ti, ferramenta de apoio à análise qualitativa de dados. O processo consistiu na identificação de trechos relevantes dos relatos e na associação desses trechos a códigos relacionados aos aspectos observados na experiência de uso da plataforma Twitch. As evidências apresentadas a seguir documentam o processo de análise e permitem acompanhar a relação entre as respostas originais dos participantes e os códigos atribuídos.
+
+![figura](Imagens-UX/3.2.jpeg)
+
+
+Os registros apresentados demonstram como os trechos das respostas foram associados aos códigos durante a análise qualitativa. Essa organização possibilitou agrupar relatos relacionados a aspectos semelhantes da experiência dos participantes, facilitando a identificação de padrões e temas recorrentes. A codificação constituiu a base para a organização e interpretação dos dados nas etapas seguintes da análise.
 
 ### 4.3 Códigos identificados
 
+Após o processo de codificação das respostas no ATLAS.ti, foram identificados códigos que representam aspectos relevantes dos relatos dos participantes sobre a experiência de uso da Twitch. Esses códigos foram definidos a partir dos conteúdos analisados e utilizados para organizar os trechos das respostas de acordo com os temas e as percepções identificados. A seguir, são apresentados registros visuais dos principais códigos criados durante a análise qualitativa.
+
+![figura](Imagens-UX/3.3.jpeg)
+
+Os códigos identificados permitiram sistematizar as informações presentes nas respostas abertas e estabelecer relações entre diferentes relatos dos participantes. Essa organização contribuiu para a compreensão dos aspectos positivos e das possíveis dificuldades percebidas durante a utilização da plataforma. Os códigos também serviram de base para a construção das redes no ATLAS.ti, apresentadas na etapa seguinte.
+
+
 
 ### 4.4 Redes construídas no ATLAS.ti
+
 Inserir as seis redes, uma para cada dimensão: Atratividade, Perspicuidade, Eficiência, Confiabilidade, Estimulação e Novidade.
 
 ## 5. Considerações sobre a experiência do usuário
