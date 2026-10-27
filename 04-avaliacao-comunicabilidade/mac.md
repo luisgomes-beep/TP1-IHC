@@ -37,7 +37,7 @@ A tabela de etiquetagem das rupturas apresenta as dificuldades identificadas dur
 
 Entre as atividades analisadas, destacam-se a T2, relacionada à seleção do idioma de uma transmissão; a T7, referente à localização das notificações; e a T9, que consistia em encontrar as configurações da plataforma. Na T2, houve a necessidade de utilizar um caminho alternativo para encontrar a opção desejada. Na T7, ocorreu dificuldade para compreender o significado de um símbolo da interface. Já na T9, os participantes enfrentaram obstáculos para localizar as configurações, incluindo um caso de desistência e outro em que o participante confundiu as configurações de vídeo com as configurações gerais.
 
-De modo geral, as ocorrências evidenciam dificuldades de localização, interpretação de elementos visuais e compreensão da navegação, que prejudicaram a conclusão dessas atividades. A análise permite identificar aspectos da interface que podem ser aprimorados para tornar a Twitch mais intuitiva
+De modo geral, as ocorrências evidenciam dificuldades de localização, interpretação de elementos visuais e compreensão da navegação, que prejudicaram a conclusão dessas atividades. A análise permite identificar aspectos da interface que podem ser aprimorados para tornar a Twitch mais intuitiva.
 
 | Part. | Tarefa | Tela/Elemento | Situação observada | Tipo de falha | Etiqueta | Problema de comunicabilidade |
 |---|---|---|---|---|---|---|
